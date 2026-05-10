@@ -1,0 +1,6738 @@
+[
+ {
+  "code": "EF-ACQDI-001",
+  "name": "Acqua Di Parma — Amalfi Fig",
+  "brand": "Acqua Di Parma",
+  "description": "Inspiriert von: Fico di Amalfi · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ADI-001",
+  "name": "Adidas — Active Spirit",
+  "brand": "Adidas",
+  "description": "Inspiriert von: Classic · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-AL-PE-001",
+  "name": "Al-Jazeera Perfumes — Mystic Veil",
+  "brand": "Al-Jazeera Perfumes",
+  "description": "Inspiriert von: Magic · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-AL-PE-002",
+  "name": "Al-Jazeera Perfumes — Frozen Aura",
+  "brand": "Al-Jazeera Perfumes",
+  "description": "Inspiriert von: Snow · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-AL-PE-003",
+  "name": "Al-Jazeera Perfumes — Royal Sultan",
+  "brand": "Al-Jazeera Perfumes",
+  "description": "Inspiriert von: Sultan N° 9 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-AME-001",
+  "name": "America — Sportive America",
+  "brand": "America",
+  "description": "Inspiriert von: Sport · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-AMO-001",
+  "name": "Amouage — PQ Green Spirit",
+  "brand": "Amouage",
+  "description": "Inspiriert von: Bracken Man · 50ml Eau de Parfum",
+  "unit_price": 25.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-AMO-002",
+  "name": "Amouage — Daylight Man",
+  "brand": "Amouage",
+  "description": "Inspiriert von: Dia Man · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-AMO-003",
+  "name": "Amouage — Daylight Woman",
+  "brand": "Amouage",
+  "description": "Inspiriert von: Dia Women · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-AMO-004",
+  "name": "Amouage — Epic Shadow",
+  "brand": "Amouage",
+  "description": "Inspiriert von: Epic Man · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-AMO-005",
+  "name": "Amouage — Golden Aura",
+  "brand": "Amouage",
+  "description": "Inspiriert von: Gold Man · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-AMO-006",
+  "name": "Amouage — Guided Soul",
+  "brand": "Amouage",
+  "description": "Inspiriert von: Guidance · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-AMO-007",
+  "name": "Amouage — PQ The Way No.46",
+  "brand": "Amouage",
+  "description": "Inspiriert von: Guidance 46 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-AMO-008",
+  "name": "Amouage — Honor Valor",
+  "brand": "Amouage",
+  "description": "Inspiriert von: Honour Man · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-AMO-009",
+  "name": "Amouage — Eternal Flame",
+  "brand": "Amouage",
+  "description": "Inspiriert von: Interlude Man · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-AMO-010",
+  "name": "Amouage — Silent Flame",
+  "brand": "Amouage",
+  "description": "Inspiriert von: Interlude Women · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-AMO-011",
+  "name": "Amouage — Sweet Amour",
+  "brand": "Amouage",
+  "description": "Inspiriert von: Love Delight · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-AMO-012",
+  "name": "Amouage — Royal Smoke",
+  "brand": "Amouage",
+  "description": "Inspiriert von: Opus XIV Royal Tobacco · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-AMO-013",
+  "name": "Amouage — Modern Vision",
+  "brand": "Amouage",
+  "description": "Inspiriert von: Portrayal Man · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-AMO-014",
+  "name": "Amouage — Portray Bloom",
+  "brand": "Amouage",
+  "description": "Inspiriert von: Portrayal Women · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-AMO-015",
+  "name": "Amouage — Mirror Man",
+  "brand": "Amouage",
+  "description": "Inspiriert von: Reflection Man · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-AMO-016",
+  "name": "Amouage — Mirror Woman",
+  "brand": "Amouage",
+  "description": "Inspiriert von: Reflection Women · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ANTBA-001",
+  "name": "Antonio Banderas — Blue Seduction Spirit",
+  "brand": "Antonio Banderas",
+  "description": "Inspiriert von: Seduction Blue · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-001",
+  "name": "Arabian Originals — Al Wesal Golden",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Al Wesal Golden from Ajmal · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-002",
+  "name": "Arabian Originals — Al Wisal Silver",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Al Wisal Silver from Ajmal · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-003",
+  "name": "Arabian Originals — Al Wisam Pour Homme",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Al Wisam Pour Homme Rasasi · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-004",
+  "name": "Arabian Originals — Al-Haitham",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Al-Haitham · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-005",
+  "name": "Arabian Originals — Alamaken",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Alamaken · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-006",
+  "name": "Arabian Originals — Amazing",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Amazing · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-007",
+  "name": "Arabian Originals — Amber",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Amber · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-008",
+  "name": "Arabian Originals — Amber Wood",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Amber Wood · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-009",
+  "name": "Arabian Originals — Amber Wood Ajmal",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Amber Wood von Ajmal · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-010",
+  "name": "Arabian Originals — Ammer Aloud",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Ammer Aloud · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-011",
+  "name": "Arabian Originals — An Wel Alshoq",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: An Wel Alshoq · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-012",
+  "name": "Arabian Originals — Anfas Ishq",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Anfas Ishq · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-013",
+  "name": "Arabian Originals — Apfel-Moschus Tahara",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Apfel-Moschus Tahara · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-014",
+  "name": "Arabian Originals — Bade'e Al Oud",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Bade'e Al Oud Oud for Glory · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-015",
+  "name": "Arabian Originals — Basilicum",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Basilicum · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-016",
+  "name": "Arabian Originals — Biscuits",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Biscuits · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-017",
+  "name": "Arabian Originals — Blaubeere-Moschus Tahara Blue",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Blaubeere-Moschus Tahara Blue · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-018",
+  "name": "Arabian Originals — Blaubeere-Moschus Tahara Rot",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Blaubeere-Moschus Tahara Rot · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-019",
+  "name": "Arabian Originals — Gory Roses",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Blutige Rosen · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-020",
+  "name": "Arabian Originals — Calabria by Gissah",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Calabria by Gissah · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-021",
+  "name": "Arabian Originals — Cambodian Oud",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Cambodian Oud · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-022",
+  "name": "Arabian Originals — Capri Qissa",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Capri Qissa · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-023",
+  "name": "Arabian Originals — Cardinia",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Cardinia · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-024",
+  "name": "Arabian Originals — Cranberry",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Cranberry · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-025",
+  "name": "Arabian Originals — Dehn Aloud Mubakhar",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Dehn Aloud Mubakhar · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-026",
+  "name": "Arabian Originals — Diplomatic Oud",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Diplomatic Oud · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-027",
+  "name": "Arabian Originals — Dove",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Dove · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-028",
+  "name": "Arabian Originals — Dubai Princess",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Dubai Princess · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-029",
+  "name": "Arabian Originals — Fa",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Fa · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-030",
+  "name": "Arabian Originals — Flower Violet",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Flower Violet · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-031",
+  "name": "Arabian Originals — Fruits",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Fruits · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-032",
+  "name": "Arabian Originals — Gold Dust Gelb",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Gold Dust Gelb · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-033",
+  "name": "Arabian Originals — Gold Dust Rot",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Gold Dust Rot · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-034",
+  "name": "Arabian Originals — Golf Oud",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Golf Oud · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-035",
+  "name": "Arabian Originals — Granatapfel-Moschus Tahara",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Granatapfel-Moschus Tahara · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-036",
+  "name": "Arabian Originals — Gulf Flower",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Gulf Flower · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-037",
+  "name": "Arabian Originals — Hamul",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Hamul · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-038",
+  "name": "Arabian Originals — Helen Gissah",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Helen Gissah · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-039",
+  "name": "Arabian Originals — Honig-Moschus Tahara",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Honig-Moschus Tahara · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-040",
+  "name": "Arabian Originals — Hudson Valley Gissah",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Hudson Valley Gissah · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-041",
+  "name": "Arabian Originals — Imperial Valley Gissah",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Imperial Valley Gissah · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-042",
+  "name": "Arabian Originals — Isfahan Oud",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Isfahan Oud · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-043",
+  "name": "Arabian Originals — Jasmin",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Jasmin · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-044",
+  "name": "Arabian Originals — Jasmin Premium",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Jasmin (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-045",
+  "name": "Arabian Originals — Jasminum Sambac",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Jasminum Sambac · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-046",
+  "name": "Arabian Originals — Johnson",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Johnson · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-047",
+  "name": "Arabian Originals — Kaaba Musk",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Kaaba Musk · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-048",
+  "name": "Arabian Originals — Kashkha",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Kashkha · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-049",
+  "name": "Arabian Originals — Kokosnuss",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Kokosnuss · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-050",
+  "name": "Arabian Originals — La Luna Gissah",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: La Luna Gissah · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-051",
+  "name": "Arabian Originals — Lady Sweet Moschus Tahara",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Lady Sweet Moschus Tahara · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-052",
+  "name": "Arabian Originals — Lataffa Ammerat Al Arab",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Lataffa Ammerat Al Arab · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-053",
+  "name": "Arabian Originals — Lataffa An Abiyadehe",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Lataffa An Abiyadehe · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-054",
+  "name": "Arabian Originals — Lataffa Ana Abiyadehe Rouge",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Lataffa Ana Abiyadehe Rouge · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-055",
+  "name": "Arabian Originals — Lataffa Assad Black",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Lataffa Assad Black · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-056",
+  "name": "Arabian Originals — Lataffa Atlas",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Lataffa Atlas · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-057",
+  "name": "Arabian Originals — Lataffa Khamra",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Lataffa Khamra · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-058",
+  "name": "Arabian Originals — Lataffa Yara",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Lataffa Yara · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-059",
+  "name": "Arabian Originals — Lavendel-Moschus Tahara",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Lavendel-Moschus Tahara · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-060",
+  "name": "Arabian Originals — Lavender",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Lavender · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-061",
+  "name": "Arabian Originals — Lily Flower",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Lily Flower · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-062",
+  "name": "Arabian Originals — Linden",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Linden · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-063",
+  "name": "Arabian Originals — Love",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Love · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-064",
+  "name": "Arabian Originals — Madawi Arabian Oud",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Madawi Arabian Oud · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-065",
+  "name": "Arabian Originals — Mandarine",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Mandarine · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-066",
+  "name": "Arabian Originals — Mango-Moschus Tahara",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Mango-Moschus Tahara · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-067",
+  "name": "Arabian Originals — Maqam Ibrahim",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Maqam Ibrahim · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-068",
+  "name": "Arabian Originals — Musk Al Ghazal",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Musk Al Ghazal Saudi-Arabien · 50ml Eau de Parfum",
+  "unit_price": 25.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-069",
+  "name": "Arabian Originals — Musk Makka",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Musk Makka · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-070",
+  "name": "Arabian Originals — Musk Tahara",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Musk Tahara · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-071",
+  "name": "Arabian Originals — Musk Tahara ASAQ",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Musk Tahara Abdul Samad Al Qurashi · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-072",
+  "name": "Arabian Originals — Narzisse",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Narzisse · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-073",
+  "name": "Arabian Originals — One & Only Gissah",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: One & Only Gissah · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-074",
+  "name": "Arabian Originals — One Thousand and One Nights",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: One Thousand and One Nights · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-075",
+  "name": "Arabian Originals — Orchid Flower",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Orchid Flower · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-076",
+  "name": "Arabian Originals — Oud Al-Abiad",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Oud Al-Abiad · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-077",
+  "name": "Arabian Originals — PQ Oud Al-Abiad Premium",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Oud Al-Abiad (PQ) · 50ml Eau de Parfum",
+  "unit_price": 30.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-078",
+  "name": "Arabian Originals — Oud Bouquet",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Oud Bouquet · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-079",
+  "name": "Arabian Originals — Oud Isfahan Dior",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Oud Isfahan Dior · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-080",
+  "name": "Arabian Originals — Oud Ispan Dior Prive",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Oud Ispan Dior Prive · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-081",
+  "name": "Arabian Originals — Oud Kalemat",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Oud Kalemat · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-082",
+  "name": "Arabian Originals — Oud Mubakhar",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Oud Mubakhar Saudi-Arabien · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-083",
+  "name": "Arabian Originals — Oud Sahib Alsumu",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Oud Sahib Alsumu · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-084",
+  "name": "Arabian Originals — Patchouli",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Patchouli · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-085",
+  "name": "Arabian Originals — Perfect Oud",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Perfect Oud · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-086",
+  "name": "Arabian Originals — Perfume of Paradise",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Perfume of Paradise · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-087",
+  "name": "Arabian Originals — Pine",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Pine · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-088",
+  "name": "Arabian Originals — Puder-Moschus Tahara",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Puder-Moschus Tahara · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-089",
+  "name": "Arabian Originals — Raghba",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Raghba · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-090",
+  "name": "Arabian Originals — Red Musk",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Red Musk · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-091",
+  "name": "Arabian Originals — Rosen-Moschus Tahara",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Rosen-Moschus Tahara · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-092",
+  "name": "Arabian Originals — Royal Oud",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Royal Oud · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-093",
+  "name": "Arabian Originals — Sandal Oud",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Sandal Oud · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-094",
+  "name": "Arabian Originals — Scent of Incense",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Scent of Incense · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-095",
+  "name": "Arabian Originals — Sea Breeze",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Sea Breeze · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-096",
+  "name": "Arabian Originals — Shaghaf Oud",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Shaghaf Oud Swiss Arabian · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-097",
+  "name": "Arabian Originals — Sheikh Al Shuyukh",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Sheikh Al Shuyukh · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-098",
+  "name": "Arabian Originals — Shoulders",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Shoulders · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-099",
+  "name": "Arabian Originals — Silver Dust",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Silver Dust · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-100",
+  "name": "Arabian Originals — Sultan of Oud",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Sultan of Oud · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-101",
+  "name": "Arabian Originals — Sultan Parfum",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Sultan Parfum · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-102",
+  "name": "Arabian Originals — The Knight",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: The Knight · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-103",
+  "name": "Arabian Originals — The Message",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: The Message · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-104",
+  "name": "Arabian Originals — Tulip Flower",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Tulip Flower · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-105",
+  "name": "Arabian Originals — Vanilla",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Vanilla · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-106",
+  "name": "Arabian Originals — Vanille-Moschus Tahara",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Vanille-Moschus Tahara · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-107",
+  "name": "Arabian Originals — Velvet Oud",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Velvet Oud · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-108",
+  "name": "Arabian Originals — White Musk",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: White Musk · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-109",
+  "name": "Arabian Originals — White Musk Premium",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: White Musk (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-110",
+  "name": "Arabian Originals — White Oud",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: White Oud · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-111",
+  "name": "Arabian Originals — Woody Arabian Oud",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Woody Arabian Oud · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOR-112",
+  "name": "Arabian Originals — Zafaran Mukhalat",
+  "brand": "Arabian Originals",
+  "description": "Inspiriert von: Zafaran Mukhalat · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARAOU-001",
+  "name": "Arabian Oud — Kashmir Oud",
+  "brand": "Arabian Oud",
+  "description": "Inspiriert von: Kashmir · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARA-001",
+  "name": "Aramis — Devin Classic",
+  "brand": "Aramis",
+  "description": "Inspiriert von: Devin · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARIGR-001",
+  "name": "Ariana Grande — Cloud Dream",
+  "brand": "Ariana Grande",
+  "description": "Inspiriert von: Cloud · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARM-001",
+  "name": "Armani — Aqua Gio",
+  "brand": "Armani",
+  "description": "Inspiriert von: Acqua di Gio · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARM-002",
+  "name": "Armani — PQ Aqua Gio Prime",
+  "brand": "Armani",
+  "description": "Inspiriert von: Acqua di Gio (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARM-003",
+  "name": "Armani — Deep Blue",
+  "brand": "Armani",
+  "description": "Inspiriert von: Acqua Di Gio Profondo · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARM-004",
+  "name": "Armani — Aqua Femme",
+  "brand": "Armani",
+  "description": "Inspiriert von: Acqua Di Gio women · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARM-005",
+  "name": "Armani — Amber Lux",
+  "brand": "Armani",
+  "description": "Inspiriert von: Ambre Eccentrico · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARM-006",
+  "name": "Armani — Just You",
+  "brand": "Armani",
+  "description": "Inspiriert von: Because It's You · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARM-007",
+  "name": "Armani — Secret Code",
+  "brand": "Armani",
+  "description": "Inspiriert von: Code · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARM-008",
+  "name": "Armani — Black Code",
+  "brand": "Armani",
+  "description": "Inspiriert von: Code · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARM-009",
+  "name": "Armani — Crystal",
+  "brand": "Armani",
+  "description": "Inspiriert von: Diamonds · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARM-010",
+  "name": "Armani — White Diamond",
+  "brand": "Armani",
+  "description": "Inspiriert von: Diamonds · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARM-011",
+  "name": "Armani — Strong Intense",
+  "brand": "Armani",
+  "description": "Inspiriert von: intensely Stronger with you · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARM-012",
+  "name": "Armani — Own Way",
+  "brand": "Armani",
+  "description": "Inspiriert von: My Way · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARM-013",
+  "name": "Armani — Ocean Gio",
+  "brand": "Armani",
+  "description": "Inspiriert von: Ocean Di Gio · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARM-014",
+  "name": "Armani — Royal Oud",
+  "brand": "Armani",
+  "description": "Inspiriert von: Oud Royal Prive · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARM-015",
+  "name": "Armani — Yes",
+  "brand": "Armani",
+  "description": "Inspiriert von: Si · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARM-016",
+  "name": "Armani — Si Noir",
+  "brand": "Armani",
+  "description": "Inspiriert von: Si Intense · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARM-017",
+  "name": "Armani — Red Si",
+  "brand": "Armani",
+  "description": "Inspiriert von: Si Passione · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARM-018",
+  "name": "Armani — Strong Spirit",
+  "brand": "Armani",
+  "description": "Inspiriert von: Stronger imp · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARM-019",
+  "name": "Armani — Strong You",
+  "brand": "Armani",
+  "description": "Inspiriert von: Stronger with you · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARM-020",
+  "name": "Armani — PQ Strong You Prime",
+  "brand": "Armani",
+  "description": "Inspiriert von: Stronger with you (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ARM-021",
+  "name": "Armani — PQ Strong Absolute Prime",
+  "brand": "Armani",
+  "description": "Inspiriert von: Stronger With You Absolutely (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ATK-001",
+  "name": "Atkinsons — Royal Oud King",
+  "brand": "Atkinsons",
+  "description": "Inspiriert von: Oud Save The King · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ATK-002",
+  "name": "Atkinsons — Royal Oud Queen",
+  "brand": "Atkinsons",
+  "description": "Inspiriert von: Oud Save the Queen · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ATTCO-001",
+  "name": "Attar Collection — Khaltat Night",
+  "brand": "Attar Collection",
+  "description": "Inspiriert von: Khaltat Night · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-AXY-001",
+  "name": "AXY — Choco Dream",
+  "brand": "AXY",
+  "description": "Inspiriert von: Chocolate · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-AZZ-001",
+  "name": "Azzaro — Chrome Fresh",
+  "brand": "Azzaro",
+  "description": "Inspiriert von: Chrome · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-AZZ-002",
+  "name": "Azzaro — Azzaro Classic Essence",
+  "brand": "Azzaro",
+  "description": "Inspiriert von: Classic · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-AZZ-003",
+  "name": "Azzaro — Most Wanted Intense",
+  "brand": "Azzaro",
+  "description": "Inspiriert von: The Most Wanted · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-AZZ-004",
+  "name": "Azzaro — Wanted Flame",
+  "brand": "Azzaro",
+  "description": "Inspiriert von: Wanted · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BDKPA-001",
+  "name": "BDK Parfums — Shadow Grey",
+  "brand": "BDK Parfums",
+  "description": "Inspiriert von: Gris Charnel · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BDKPA-002",
+  "name": "BDK Parfums — PQ Muscus d'Arabia",
+  "brand": "BDK Parfums",
+  "description": "Inspiriert von: Rouge Smoking · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BDKPA-003",
+  "name": "BDK Parfums — Velour Tonka",
+  "brand": "BDK Parfums",
+  "description": "Inspiriert von: Velvet Tonka · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BONNO-001",
+  "name": "Bond No. 9 — Amber Dubai",
+  "brand": "Bond No. 9",
+  "description": "Inspiriert von: Dubai Amber · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BONNO-002",
+  "name": "Bond No. 9 — New York Glow",
+  "brand": "Bond No. 9",
+  "description": "Inspiriert von: New York Nights · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BRISP-001",
+  "name": "Britney Spears — Fantasy Kiss",
+  "brand": "Britney Spears",
+  "description": "Inspiriert von: Fantasy · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BRISP-002",
+  "name": "Britney Spears — Midnight Kiss",
+  "brand": "Britney Spears",
+  "description": "Inspiriert von: Midnight Fantasy · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BRISP-003",
+  "name": "Britney Spears — Sunset Kiss",
+  "brand": "Britney Spears",
+  "description": "Inspiriert von: Sunset Fantasy · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BRUFA-001",
+  "name": "Brut Faberge — Brutal Classico",
+  "brand": "Brut Faberge",
+  "description": "Inspiriert von: Brut · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BUR-001",
+  "name": "Burberry — Burberry Classic Homme",
+  "brand": "Burberry",
+  "description": "Inspiriert von: Classic · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BUR-002",
+  "name": "Burberry — Burberry Goddess Essence",
+  "brand": "Burberry",
+  "description": "Inspiriert von: Goddess · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BUR-003",
+  "name": "Burberry — Burberry Her Bloom",
+  "brand": "Burberry",
+  "description": "Inspiriert von: Her · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BUR-004",
+  "name": "Burberry — Burberry Hero Spirit",
+  "brand": "Burberry",
+  "description": "Inspiriert von: Hero · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BUR-005",
+  "name": "Burberry — Mr. Burberry Classic",
+  "brand": "Burberry",
+  "description": "Inspiriert von: Mr. Burberry · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BUR-006",
+  "name": "Burberry — My Burberry Essence",
+  "brand": "Burberry",
+  "description": "Inspiriert von: My Burberry · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BUR-007",
+  "name": "Burberry — My Burberry Noir",
+  "brand": "Burberry",
+  "description": "Inspiriert von: My Burberry Black · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BUR-008",
+  "name": "Burberry — Weekend Spirit",
+  "brand": "Burberry",
+  "description": "Inspiriert von: Weekend · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BVL-001",
+  "name": "Bvlgari — Aqua Tide",
+  "brand": "Bvlgari",
+  "description": "Inspiriert von: Aqva · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BVL-002",
+  "name": "Bvlgari — Blue Wave",
+  "brand": "Bvlgari",
+  "description": "Inspiriert von: Blue · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BVL-003",
+  "name": "Bvlgari — Noir Jasmine",
+  "brand": "Bvlgari",
+  "description": "Inspiriert von: Jasmin Noir · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BVL-004",
+  "name": "Bvlgari — Golden Tygar",
+  "brand": "Bvlgari",
+  "description": "Inspiriert von: Le Gemme Tygar · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BVL-005",
+  "name": "Bvlgari — Pink Sapphire Bloom",
+  "brand": "Bvlgari",
+  "description": "Inspiriert von: Omnia Pink Sapphire · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BYKI-001",
+  "name": "By Kilian — Angel's Spirit",
+  "brand": "By Kilian",
+  "description": "Inspiriert von: Angels' Share · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BYKI-002",
+  "name": "By Kilian — PQ Angel's Spirit",
+  "brand": "By Kilian",
+  "description": "Inspiriert von: Angels' Share (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BYKI-003",
+  "name": "By Kilian — Honey Ash",
+  "brand": "By Kilian",
+  "description": "Inspiriert von: Back To Black · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BYKI-004",
+  "name": "By Kilian — Honey Ash Aphrodisiac",
+  "brand": "By Kilian",
+  "description": "Inspiriert von: Back to Black Aphrodisiac · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BYKI-005",
+  "name": "By Kilian — Rebel Rose",
+  "brand": "By Kilian",
+  "description": "Inspiriert von: Good Girl Gone Bad · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BYKI-006",
+  "name": "By Kilian — Sweet Temptation",
+  "brand": "By Kilian",
+  "description": "Inspiriert von: Love Don't Be Shy · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BYKI-007",
+  "name": "By Kilian — PQ Sweet Temptation PQ",
+  "brand": "By Kilian",
+  "description": "Inspiriert von: Love Don't Be Shy (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BYKI-008",
+  "name": "By Kilian — Fruity Kiss",
+  "brand": "By Kilian",
+  "description": "Inspiriert von: Love the way you Taste · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BYKI-009",
+  "name": "By Kilian — Mystic Musk Oud",
+  "brand": "By Kilian",
+  "description": "Inspiriert von: Musk Oud · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BYKI-010",
+  "name": "By Kilian — Pearl Essence",
+  "brand": "By Kilian",
+  "description": "Inspiriert von: Pearl Oud · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BYKI-011",
+  "name": "By Kilian — Velvet Love",
+  "brand": "By Kilian",
+  "description": "Inspiriert von: Rolling in Love · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BYKI-012",
+  "name": "By Kilian — Sacred Sandal",
+  "brand": "By Kilian",
+  "description": "Inspiriert von: Sacred Wood · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BYKI-013",
+  "name": "By Kilian — Smoky Heat",
+  "brand": "By Kilian",
+  "description": "Inspiriert von: Smoking Hot · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BYKI-014",
+  "name": "By Kilian — Golden Bloom",
+  "brand": "By Kilian",
+  "description": "Inspiriert von: Woman in Gold · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BYR-001",
+  "name": "Byredo — African Harmony",
+  "brand": "Byredo",
+  "description": "Inspiriert von: Bal d'Afrique · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BYR-002",
+  "name": "Byredo — Pure White",
+  "brand": "Byredo",
+  "description": "Inspiriert von: Blanche · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-BYR-003",
+  "name": "Byredo — PQ Nomad Spirit",
+  "brand": "Byredo",
+  "description": "Inspiriert von: Gypsy Water · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CAC-001",
+  "name": "Cacharel — Amor Essence",
+  "brand": "Cacharel",
+  "description": "Inspiriert von: Amor Amor · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CAC-002",
+  "name": "Cacharel — Anaïs Bloom",
+  "brand": "Cacharel",
+  "description": "Inspiriert von: Anaïs Anaïs · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CALKL-001",
+  "name": "Calvin Klein — Pure Balance",
+  "brand": "Calvin Klein",
+  "description": "Inspiriert von: CK1 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CALKL-002",
+  "name": "Calvin Klein — PQ Pure Balance Royale",
+  "brand": "Calvin Klein",
+  "description": "Inspiriert von: CK1 (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CALKL-003",
+  "name": "Calvin Klein — Crystal Dual",
+  "brand": "Calvin Klein",
+  "description": "Inspiriert von: CK2 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CALKL-004",
+  "name": "Calvin Klein — Rebel Core",
+  "brand": "Calvin Klein",
+  "description": "Inspiriert von: Defy · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CALKL-005",
+  "name": "Calvin Klein — Horizon Spirit",
+  "brand": "Calvin Klein",
+  "description": "Inspiriert von: Escape · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CALKL-006",
+  "name": "Calvin Klein — Horizon Bloom",
+  "brand": "Calvin Klein",
+  "description": "Inspiriert von: Escape Women · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CALKL-007",
+  "name": "Calvin Klein — Timeless Essence",
+  "brand": "Calvin Klein",
+  "description": "Inspiriert von: Eternity · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CALKL-008",
+  "name": "Calvin Klein — Timeless Bloom",
+  "brand": "Calvin Klein",
+  "description": "Inspiriert von: Eternity Women · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CALKL-009",
+  "name": "Calvin Klein — Velvet Dream",
+  "brand": "Calvin Klein",
+  "description": "Inspiriert von: Euphoria · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CALKL-010",
+  "name": "Calvin Klein — Velvet Rose",
+  "brand": "Calvin Klein",
+  "description": "Inspiriert von: Euphoria Women · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CALKL-011",
+  "name": "Calvin Klein — Golden Touch",
+  "brand": "Calvin Klein",
+  "description": "Inspiriert von: Gold · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CARHE-001",
+  "name": "Carolina Herrera — Urban Code",
+  "brand": "Carolina Herrera",
+  "description": "Inspiriert von: 212 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CARHE-002",
+  "name": "Carolina Herrera — Play Spirit",
+  "brand": "Carolina Herrera",
+  "description": "Inspiriert von: 212 Heroes For Her · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CARHE-003",
+  "name": "Carolina Herrera — Dark Rebel",
+  "brand": "Carolina Herrera",
+  "description": "Inspiriert von: Bad Boy · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CARHE-004",
+  "name": "Carolina Herrera — Royal CH",
+  "brand": "Carolina Herrera",
+  "description": "Inspiriert von: CH Men · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CARHE-005",
+  "name": "Carolina Herrera — Heroine 212",
+  "brand": "Carolina Herrera",
+  "description": "Inspiriert von: CH Women · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CARHE-006",
+  "name": "Carolina Herrera — Blush Bloom",
+  "brand": "Carolina Herrera",
+  "description": "Inspiriert von: Good Girl · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CARHE-007",
+  "name": "Carolina Herrera — Pink Fantasy",
+  "brand": "Carolina Herrera",
+  "description": "Inspiriert von: Good Girl Blush · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CARHE-008",
+  "name": "Carolina Herrera — Seduction 212",
+  "brand": "Carolina Herrera",
+  "description": "Inspiriert von: Good Girl Fantastic Pink · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CARHE-009",
+  "name": "Carolina Herrera — Midnight Seduction",
+  "brand": "Carolina Herrera",
+  "description": "Inspiriert von: Sexy · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CARHE-010",
+  "name": "Carolina Herrera — VIP Bloom",
+  "brand": "Carolina Herrera",
+  "description": "Inspiriert von: Sexy 212 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CARHE-011",
+  "name": "Carolina Herrera — VIP Essence",
+  "brand": "Carolina Herrera",
+  "description": "Inspiriert von: VIP · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CARHE-012",
+  "name": "Carolina Herrera — CH Essence Femme",
+  "brand": "Carolina Herrera",
+  "description": "Inspiriert von: VIP Women · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CAR-001",
+  "name": "Caron — Caron Heritage",
+  "brand": "Caron",
+  "description": "Inspiriert von: Pour un Homme · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CAR-002",
+  "name": "Carrara — Carrara Homme",
+  "brand": "Carrara",
+  "description": "Inspiriert von: Pour Homme · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CAR-003",
+  "name": "Cartier — Declaration Noble",
+  "brand": "Cartier",
+  "description": "Inspiriert von: Déclaration · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CAR-004",
+  "name": "Cartier — Panthère Éternelle",
+  "brand": "Cartier",
+  "description": "Inspiriert von: La Panthère · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CAR-005",
+  "name": "Cartier — Pasha Royale",
+  "brand": "Cartier",
+  "description": "Inspiriert von: Pasha · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CHA-001",
+  "name": "Chanel — Sensual Allure",
+  "brand": "Chanel",
+  "description": "Inspiriert von: Allure Sensuelle · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CHA-002",
+  "name": "Chanel — Sport Essence",
+  "brand": "Chanel",
+  "description": "Inspiriert von: Allure Sport · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CHA-003",
+  "name": "Chanel — PQ Sport Essence PQ",
+  "brand": "Chanel",
+  "description": "Inspiriert von: Allure Sport (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CHA-004",
+  "name": "Chanel — Blue Horizon",
+  "brand": "Chanel",
+  "description": "Inspiriert von: Bleu de Chanel · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CHA-005",
+  "name": "Chanel — PQ Blue Horizon PQ",
+  "brand": "Chanel",
+  "description": "Inspiriert von: Bleu de Chanel (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CHA-006",
+  "name": "Chanel — Chance Charm",
+  "brand": "Chanel",
+  "description": "Inspiriert von: Chance · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CHA-007",
+  "name": "Chanel — Tender Chance",
+  "brand": "Chanel",
+  "description": "Inspiriert von: Chance Eau Tendre · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CHA-008",
+  "name": "Chanel — Classic Coco",
+  "brand": "Chanel",
+  "description": "Inspiriert von: Coco · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CHA-009",
+  "name": "Chanel — Coco Essence",
+  "brand": "Chanel",
+  "description": "Inspiriert von: Coco Mademoiselle · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CHA-010",
+  "name": "Chanel — PQ Coco Essence PQ",
+  "brand": "Chanel",
+  "description": "Inspiriert von: Coco Mademoiselle (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CHA-011",
+  "name": "Chanel — Noir Coco",
+  "brand": "Chanel",
+  "description": "Inspiriert von: Coco Noir · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CHA-012",
+  "name": "Chanel — Gabrielle Glow",
+  "brand": "Chanel",
+  "description": "Inspiriert von: Gabrielle · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CHA-013",
+  "name": "Chanel — Green No.19",
+  "brand": "Chanel",
+  "description": "Inspiriert von: N°19 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CHA-014",
+  "name": "Chanel — Iconic No.5",
+  "brand": "Chanel",
+  "description": "Inspiriert von: N°5 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CHA-015",
+  "name": "Chanel — Platinum Spirit",
+  "brand": "Chanel",
+  "description": "Inspiriert von: Platinum Égoïste · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CHL-001",
+  "name": "Chloé — Chloé Classic",
+  "brand": "Chloé",
+  "description": "Inspiriert von: Eau de Parfum · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CHL-002",
+  "name": "Chloé — Love Story Essence",
+  "brand": "Chloé",
+  "description": "Inspiriert von: Love Story · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CHL-003",
+  "name": "Chloé — Nomade Spirit",
+  "brand": "Chloé",
+  "description": "Inspiriert von: Nomade Eau de Parfum · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CHO-001",
+  "name": "Chopard — Nesaa Bloom",
+  "brand": "Chopard",
+  "description": "Inspiriert von: Heaven · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CHRLO-001",
+  "name": "Christian Louboutin — Royal Prince",
+  "brand": "Christian Louboutin",
+  "description": "Inspiriert von: Loubiprince · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CIG-001",
+  "name": "CIGAR — Cigar Heritage",
+  "brand": "CIGAR",
+  "description": "Inspiriert von: Classic · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CLICH-001",
+  "name": "Clive Christian — Heritage 1872",
+  "brand": "Clive Christian",
+  "description": "Inspiriert von: 1872 for Men · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CLICH-002",
+  "name": "Clive Christian — PQ Golden Amber",
+  "brand": "Clive Christian",
+  "description": "Inspiriert von: Blonde Amber · 50ml Eau de Parfum",
+  "unit_price": 25.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CLICH-003",
+  "name": "Clive Christian — Wild Desire",
+  "brand": "Clive Christian",
+  "description": "Inspiriert von: Jump Up and Kiss Me Hedonistic · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CLICH-004",
+  "name": "Clive Christian — Imperial Blossom",
+  "brand": "Clive Christian",
+  "description": "Inspiriert von: Matsukita · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CLICH-005",
+  "name": "Clive Christian — PQ The First Essence",
+  "brand": "Clive Christian",
+  "description": "Inspiriert von: No. 1 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CLICH-006",
+  "name": "Clive Christian — Secret X",
+  "brand": "Clive Christian",
+  "description": "Inspiriert von: X for Men · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CRE-001",
+  "name": "Creed — PQ Absolute Victor PQ",
+  "brand": "Creed",
+  "description": "Inspiriert von: Absolu Aventus (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CRE-002",
+  "name": "Creed — Victor's Pride",
+  "brand": "Creed",
+  "description": "Inspiriert von: Aventus · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CRE-003",
+  "name": "Creed — PQ Victor's Pride PQ",
+  "brand": "Creed",
+  "description": "Inspiriert von: Aventus (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CRE-004",
+  "name": "Creed — Aventura Femme",
+  "brand": "Creed",
+  "description": "Inspiriert von: Aventus for Her · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CRE-005",
+  "name": "Creed — Irish Dawn",
+  "brand": "Creed",
+  "description": "Inspiriert von: Green Irish · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CRE-006",
+  "name": "Creed — Imperial Tide",
+  "brand": "Creed",
+  "description": "Inspiriert von: Millésime Impérial · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CRE-007",
+  "name": "Creed — Green Vetiver",
+  "brand": "Creed",
+  "description": "Inspiriert von: Original Vétiver · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CRE-008",
+  "name": "Creed — Silver Essence",
+  "brand": "Creed",
+  "description": "Inspiriert von: Silver · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CRE-009",
+  "name": "Creed — PQ Silver Essence PQ",
+  "brand": "Creed",
+  "description": "Inspiriert von: Silver (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CRE-010",
+  "name": "Creed — Vanilla Sublime",
+  "brand": "Creed",
+  "description": "Inspiriert von: Sublime Vanille · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CRE-011",
+  "name": "Creed — Nordic Flame",
+  "brand": "Creed",
+  "description": "Inspiriert von: Viking · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-CRE-012",
+  "name": "Creed — Island Breeze",
+  "brand": "Creed",
+  "description": "Inspiriert von: Virgin Island Water · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DAV-001",
+  "name": "Davidoff — Iron Spirit",
+  "brand": "Davidoff",
+  "description": "Inspiriert von: Champion · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DAV-002",
+  "name": "Davidoff — Aqua Play",
+  "brand": "Davidoff",
+  "description": "Inspiriert von: Cool Water Game · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DAV-003",
+  "name": "Davidoff — Ocean Spirit",
+  "brand": "Davidoff",
+  "description": "Inspiriert von: Cool Water Man · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DAV-004",
+  "name": "Davidoff — Ocean Bloom",
+  "brand": "Davidoff",
+  "description": "Inspiriert von: Cool Water Women · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DAV-005",
+  "name": "Davidoff — Silent Wave",
+  "brand": "Davidoff",
+  "description": "Inspiriert von: Echo · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DAV-006",
+  "name": "Davidoff — Grey Eclipse",
+  "brand": "Davidoff",
+  "description": "Inspiriert von: Silver Shadow · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIE-001",
+  "name": "Diesel — Dark Instinct",
+  "brand": "Diesel",
+  "description": "Inspiriert von: Bad · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIE-002",
+  "name": "Diesel — Fuel Energy",
+  "brand": "Diesel",
+  "description": "Inspiriert von: Fuel For Life · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIE-003",
+  "name": "Diesel — Brave Core",
+  "brand": "Diesel",
+  "description": "Inspiriert von: Only The Brave Privé · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-001",
+  "name": "Dior — Velour Addict",
+  "brand": "Dior",
+  "description": "Inspiriert von: Addict · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-002",
+  "name": "Dior — Amber Dusk",
+  "brand": "Dior",
+  "description": "Inspiriert von: Ambre Nuit · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-003",
+  "name": "Dior — Silver Woods",
+  "brand": "Dior",
+  "description": "Inspiriert von: Bois d'Argent · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-004",
+  "name": "Dior — Firestone",
+  "brand": "Dior",
+  "description": "Inspiriert von: Fahrenheit · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-005",
+  "name": "Dior — PQ Firestone PQ",
+  "brand": "Dior",
+  "description": "Inspiriert von: Fahrenheit (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-006",
+  "name": "Dior — White Fire",
+  "brand": "Dior",
+  "description": "Inspiriert von: Fahrenheit 32 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-007",
+  "name": "Dior — Sweet Indulgence",
+  "brand": "Dior",
+  "description": "Inspiriert von: Feve Delicieuse · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-008",
+  "name": "Dior — Grey Essence",
+  "brand": "Dior",
+  "description": "Inspiriert von: Gris · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-009",
+  "name": "Dior — PQ Classic Homme PQ",
+  "brand": "Dior",
+  "description": "Inspiriert von: Homme (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-010",
+  "name": "Dior — Fresh Cologne",
+  "brand": "Dior",
+  "description": "Inspiriert von: Homme Cologne · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-011",
+  "name": "Dior — Intense Homme",
+  "brand": "Dior",
+  "description": "Inspiriert von: Homme Intense · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-012",
+  "name": "Dior — PQ Intense Homme PQ",
+  "brand": "Dior",
+  "description": "Inspiriert von: Homme Intense (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-013",
+  "name": "Dior — Sportive Homme",
+  "brand": "Dior",
+  "description": "Inspiriert von: Homme Sport Intense · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-014",
+  "name": "Dior — Velvet Hypnotic",
+  "brand": "Dior",
+  "description": "Inspiriert von: Hypnotic · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-015",
+  "name": "Dior — PQ Velvet Hypnotic PQ",
+  "brand": "Dior",
+  "description": "Inspiriert von: Hypnotic (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-016",
+  "name": "Dior — Golden Bloom",
+  "brand": "Dior",
+  "description": "Inspiriert von: J'adore · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-017",
+  "name": "Dior — Joyful Bloom",
+  "brand": "Dior",
+  "description": "Inspiriert von: J'adore in Joy · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-018",
+  "name": "Dior — Miss Bloom",
+  "brand": "Dior",
+  "description": "Inspiriert von: Miss Dior · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-019",
+  "name": "Dior — PQ Blooming Miss PQ",
+  "brand": "Dior",
+  "description": "Inspiriert von: Miss Dior Blooming Bouquet (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-020",
+  "name": "Dior — Cherie Bloom",
+  "brand": "Dior",
+  "description": "Inspiriert von: Miss Dior Cherie · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-021",
+  "name": "Dior — Rose Radiance",
+  "brand": "Dior",
+  "description": "Inspiriert von: Miss Dior Rose N'Roses · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-022",
+  "name": "Dior — Rosewood Oud",
+  "brand": "Dior",
+  "description": "Inspiriert von: Oud Rosewood · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-023",
+  "name": "Dior — Mystic Poison",
+  "brand": "Dior",
+  "description": "Inspiriert von: Poison · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-024",
+  "name": "Dior — Rouge Essence",
+  "brand": "Dior",
+  "description": "Inspiriert von: Rouge Trafalgar · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-025",
+  "name": "Dior — Wild Horizon",
+  "brand": "Dior",
+  "description": "Inspiriert von: Sauvage · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-026",
+  "name": "Dior — PQ Wild Horizon PQ",
+  "brand": "Dior",
+  "description": "Inspiriert von: Sauvage (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-027",
+  "name": "Dior — PQ Wild Forte",
+  "brand": "Dior",
+  "description": "Inspiriert von: Sauvage Eau Forte · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-028",
+  "name": "Dior — Wild Elixir",
+  "brand": "Dior",
+  "description": "Inspiriert von: Sauvage Elixir · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIO-029",
+  "name": "Dior — Vanilla Essence",
+  "brand": "Dior",
+  "description": "Inspiriert von: Vanilla Diorama · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DIP-001",
+  "name": "Diptyque — Orpheus",
+  "brand": "Diptyque",
+  "description": "Inspiriert von: Orphéon · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DKN-001",
+  "name": "DKNY — Urban Apple",
+  "brand": "DKNY",
+  "description": "Inspiriert von: Be Delicious · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DOLGA-001",
+  "name": "Dolce & Gabbana — Classic Essence for him",
+  "brand": "Dolce & Gabbana",
+  "description": "Inspiriert von: Classic · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DOLGA-002",
+  "name": "Dolce & Gabbana — Classic Essence for her",
+  "brand": "Dolce & Gabbana",
+  "description": "Inspiriert von: Classic · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DOLGA-003",
+  "name": "Dolce & Gabbana — Sweet Devotion",
+  "brand": "Dolce & Gabbana",
+  "description": "Inspiriert von: Devotion · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DOLGA-004",
+  "name": "Dolce & Gabbana — Exclusive Oud",
+  "brand": "Dolce & Gabbana",
+  "description": "Inspiriert von: Exclusive Edition · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DOLGA-005",
+  "name": "Dolce & Gabbana — Royal King",
+  "brand": "Dolce & Gabbana",
+  "description": "Inspiriert von: King · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DOLGA-006",
+  "name": "Dolce & Gabbana — Blue Spirit",
+  "brand": "Dolce & Gabbana",
+  "description": "Inspiriert von: Light Blue Man · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DOLGA-007",
+  "name": "Dolce & Gabbana — Blue Bloom",
+  "brand": "Dolce & Gabbana",
+  "description": "Inspiriert von: Light Blue Women · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DOLGA-008",
+  "name": "Dolce & Gabbana — Femme Essence",
+  "brand": "Dolce & Gabbana",
+  "description": "Inspiriert von: Pour Femme · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DOLGA-009",
+  "name": "Dolce & Gabbana — Royal Queen",
+  "brand": "Dolce & Gabbana",
+  "description": "Inspiriert von: Queen · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DOLGA-010",
+  "name": "Dolce & Gabbana — The One Legend for him",
+  "brand": "Dolce & Gabbana",
+  "description": "Inspiriert von: The One · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DOLGA-011",
+  "name": "Dolce & Gabbana — The One Legend for her",
+  "brand": "Dolce & Gabbana",
+  "description": "Inspiriert von: The One · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DSDU-001",
+  "name": "DS&Durga — Fig Harmony",
+  "brand": "DS&Durga",
+  "description": "Inspiriert von: Debaser · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DUN-001",
+  "name": "Dunhill — Leather Earth",
+  "brand": "Dunhill",
+  "description": "Inspiriert von: Braun · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DUN-002",
+  "name": "Dunhill — Crimson Flame",
+  "brand": "Dunhill",
+  "description": "Inspiriert von: Desire · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DUN-003",
+  "name": "Dunhill — Ocean Drive",
+  "brand": "Dunhill",
+  "description": "Inspiriert von: Desire Blue · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DUN-004",
+  "name": "Dunhill — Citrus Burst",
+  "brand": "Dunhill",
+  "description": "Inspiriert von: Fresh · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DUN-005",
+  "name": "Dunhill — Noble Icon",
+  "brand": "Dunhill",
+  "description": "Inspiriert von: Icon · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-DUN-006",
+  "name": "Dunhill — Royal London",
+  "brand": "Dunhill",
+  "description": "Inspiriert von: London · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ELISA-001",
+  "name": "Elie Saab — Girl Spirit",
+  "brand": "Elie Saab",
+  "description": "Inspiriert von: Girl of Now · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ELISA-002",
+  "name": "Elie Saab — Elie Essence",
+  "brand": "Elie Saab",
+  "description": "Inspiriert von: Le Parfum · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ESC-001",
+  "name": "Escada — Escada Collection Essence",
+  "brand": "Escada",
+  "description": "Inspiriert von: Collection · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ESC-002",
+  "name": "Escada — Especially You",
+  "brand": "Escada",
+  "description": "Inspiriert von: Especially · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ESC-003",
+  "name": "Escada — Magnetic Charm",
+  "brand": "Escada",
+  "description": "Inspiriert von: Magnetism · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ESC-004",
+  "name": "Escada — Moonlight Spark",
+  "brand": "Escada",
+  "description": "Inspiriert von: Moon Sparkle · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ESC-005",
+  "name": "Escada — Graffiti Kiss",
+  "brand": "Escada",
+  "description": "Inspiriert von: Sexy Graffiti · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ESC-006",
+  "name": "Escada — Sunset Tropic",
+  "brand": "Escada",
+  "description": "Inspiriert von: Taj Sunset · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ESC-007",
+  "name": "Escada — Tropical Vibes",
+  "brand": "Escada",
+  "description": "Inspiriert von: Tropical · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ESCMO-001",
+  "name": "Escentric Molecules — Molecule Iso Pure",
+  "brand": "Escentric Molecules",
+  "description": "Inspiriert von: Molecule 01 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ESCMO-002",
+  "name": "Escentric Molecules — Molecule Ambroxan",
+  "brand": "Escentric Molecules",
+  "description": "Inspiriert von: Molecule 02 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ESTLA-001",
+  "name": "Estée Lauder — Muse Moderne",
+  "brand": "Estée Lauder",
+  "description": "Inspiriert von: Modern Muse · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ESTLA-002",
+  "name": "Estée Lauder — Pleasure Light",
+  "brand": "Estée Lauder",
+  "description": "Inspiriert von: Pleasures · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-EXNI-001",
+  "name": "Ex Nihilo — Blue Talisman Spirit",
+  "brand": "Ex Nihilo",
+  "description": "Inspiriert von: Blue Talisman · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-EXNI-002",
+  "name": "Ex Nihilo — Fleur Narcotique Essence",
+  "brand": "Ex Nihilo",
+  "description": "Inspiriert von: Fleur Narcotique · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-FEN-001",
+  "name": "Fendi — Fendi Classico",
+  "brand": "Fendi",
+  "description": "Inspiriert von: Classic · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-FER-001",
+  "name": "Ferrari — Ferrari Drive",
+  "brand": "Ferrari",
+  "description": "Inspiriert von: Classic · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-FRÉMA-001",
+  "name": "Frédéric Malle — Tuberose Carnal",
+  "brand": "Frédéric Malle",
+  "description": "Inspiriert von: Carnal Flower · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-FRÉMA-002",
+  "name": "Frédéric Malle — PQ Lady Portrait",
+  "brand": "Frédéric Malle",
+  "description": "Inspiriert von: Portrait of a Lady · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GIAFE-001",
+  "name": "Gianfranco Ferre — Ferre Classico",
+  "brand": "Gianfranco Ferre",
+  "description": "Inspiriert von: Ferre · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GIADI-001",
+  "name": "Giardini di Toscana — Latte Bianco",
+  "brand": "Giardini di Toscana",
+  "description": "Inspiriert von: Bianco Latte · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GIOBE-001",
+  "name": "Giorgio Beverly Hills — G Essence",
+  "brand": "Giorgio Beverly Hills",
+  "description": "Inspiriert von: G by Giorgio · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GIS-001",
+  "name": "Gisada — Ambassador Man",
+  "brand": "Gisada",
+  "description": "Inspiriert von: Ambassador · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GIS-002",
+  "name": "Gisada — Ambassador Femme",
+  "brand": "Gisada",
+  "description": "Inspiriert von: Ambassador Women · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GIV-001",
+  "name": "Givenchy — Amarige Bloom",
+  "brand": "Givenchy",
+  "description": "Inspiriert von: Amarige · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GIV-002",
+  "name": "Givenchy — Noble Gentleman",
+  "brand": "Givenchy",
+  "description": "Inspiriert von: Gentleman · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GIV-003",
+  "name": "Givenchy — Gentleman Intense",
+  "brand": "Givenchy",
+  "description": "Inspiriert von: Gentleman Only Intense · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GIV-004",
+  "name": "Givenchy — Hot Couture Essence",
+  "brand": "Givenchy",
+  "description": "Inspiriert von: Hot Couture · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GIV-005",
+  "name": "Givenchy — Irresistible Charm",
+  "brand": "Givenchy",
+  "description": "Inspiriert von: Irresistible · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GIV-006",
+  "name": "Givenchy — L'Interdit Essence",
+  "brand": "Givenchy",
+  "description": "Inspiriert von: L'Interdit 2018 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GIV-007",
+  "name": "Givenchy — L'Interdit Rouge Intense",
+  "brand": "Givenchy",
+  "description": "Inspiriert von: L'Interdit Rouge · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GIV-008",
+  "name": "Givenchy — Golden Pi",
+  "brand": "Givenchy",
+  "description": "Inspiriert von: Pi · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GIV-009",
+  "name": "Givenchy — Play Homme",
+  "brand": "Givenchy",
+  "description": "Inspiriert von: Play Man · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GIV-010",
+  "name": "Givenchy — Play Femme",
+  "brand": "Givenchy",
+  "description": "Inspiriert von: Play Women · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GIV-011",
+  "name": "Givenchy — Homme Classic",
+  "brand": "Givenchy",
+  "description": "Inspiriert von: Pour Homme · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GIV-012",
+  "name": "Givenchy — Rouge Spirit",
+  "brand": "Givenchy",
+  "description": "Inspiriert von: Xeryus Rouge · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GORKE-001",
+  "name": "Gorg Kerdahi — Kerdahi Essence",
+  "brand": "Gorg Kerdahi",
+  "description": "Inspiriert von: Classic · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GRÈ-001",
+  "name": "Grès — Cabotine Fleur",
+  "brand": "Grès",
+  "description": "Inspiriert von: Cabotine · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GUC-001",
+  "name": "Gucci — Bamboo Grace",
+  "brand": "Gucci",
+  "description": "Inspiriert von: Bamboo · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GUC-002",
+  "name": "Gucci — Floral Rise",
+  "brand": "Gucci",
+  "description": "Inspiriert von: Bloom · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GUC-003",
+  "name": "Gucci — Noble by Gucci",
+  "brand": "Gucci",
+  "description": "Inspiriert von: By Gucci · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GUC-004",
+  "name": "Gucci — Gucci Essence",
+  "brand": "Gucci",
+  "description": "Inspiriert von: By Gucci · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GUC-005",
+  "name": "Gucci — Envy Bloom",
+  "brand": "Gucci",
+  "description": "Inspiriert von: Envy Me · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GUC-006",
+  "name": "Gucci — Flora Bloom",
+  "brand": "Gucci",
+  "description": "Inspiriert von: Flora · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GUC-007",
+  "name": "Gucci — Flora Charm",
+  "brand": "Gucci",
+  "description": "Inspiriert von: Flora Gorgeous · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GUC-008",
+  "name": "Gucci — Guilty Essence",
+  "brand": "Gucci",
+  "description": "Inspiriert von: Guilty · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GUC-009",
+  "name": "Gucci — Guilty Femme",
+  "brand": "Gucci",
+  "description": "Inspiriert von: Guilty Women · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GUC-010",
+  "name": "Gucci — Oud Intense Spirit",
+  "brand": "Gucci",
+  "description": "Inspiriert von: Intense Oud · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GUC-011",
+  "name": "Gucci — Rush Classic",
+  "brand": "Gucci",
+  "description": "Inspiriert von: Rush · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GUC-012",
+  "name": "Gucci — Rush Bloom",
+  "brand": "Gucci",
+  "description": "Inspiriert von: Rush 2 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GUE-001",
+  "name": "Guerlain — PQ Crimson Oud",
+  "brand": "Guerlain",
+  "description": "Inspiriert von: Cherry Oud · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GUE-002",
+  "name": "Guerlain — PQ Mythic Incense",
+  "brand": "Guerlain",
+  "description": "Inspiriert von: Encens Mythique d'Orient · 50ml Eau de Parfum",
+  "unit_price": 25.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GUE-003",
+  "name": "Guerlain — Rouge Privé",
+  "brand": "Guerlain",
+  "description": "Inspiriert von: Habit Rouge Prive · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GUE-004",
+  "name": "Guerlain — Velvet Insolence",
+  "brand": "Guerlain",
+  "description": "Inspiriert von: Insolence · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GUE-005",
+  "name": "Guerlain — Ideal Homme",
+  "brand": "Guerlain",
+  "description": "Inspiriert von: L'Homme Idéal · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GUE-006",
+  "name": "Guerlain — Mon Essence",
+  "brand": "Guerlain",
+  "description": "Inspiriert von: Mon Guerlain · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GUE-007",
+  "name": "Guerlain — Samsara Essence",
+  "brand": "Guerlain",
+  "description": "Inspiriert von: Samsara · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GUE-008",
+  "name": "Guerlain — Royal Sandal",
+  "brand": "Guerlain",
+  "description": "Inspiriert von: Santal Royal · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GUE-009",
+  "name": "Guerlain — Vanilla Spirit",
+  "brand": "Guerlain",
+  "description": "Inspiriert von: Spiritueuse Double Vanille · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GUE-010",
+  "name": "Guerlain — PQ Golden Tobacco",
+  "brand": "Guerlain",
+  "description": "Inspiriert von: Tobacco Honey · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-GUYLA-001",
+  "name": "Guy Laroche — Dark Knight",
+  "brand": "Guy Laroche",
+  "description": "Inspiriert von: Drakkar Noir · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-HAP-001",
+  "name": "Happy — Happy Code",
+  "brand": "Happy",
+  "description": "Inspiriert von: Men · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-HAP-002",
+  "name": "Happy — Happy Code Royale",
+  "brand": "Happy",
+  "description": "Inspiriert von: Men (Duplicate) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-HER-001",
+  "name": "Hermès — Leather Barenia",
+  "brand": "Hermès",
+  "description": "Inspiriert von: Barenia · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-HER-002",
+  "name": "Hermès — Earth Essence",
+  "brand": "Hermès",
+  "description": "Inspiriert von: Terre d'Hermès · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-HUGBO-001",
+  "name": "Hugo Boss — Alive Aura",
+  "brand": "Hugo Boss",
+  "description": "Inspiriert von: Alive · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-HUGBO-002",
+  "name": "Hugo Boss — Heritage Core",
+  "brand": "Hugo Boss",
+  "description": "Inspiriert von: Baldessarini · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-HUGBO-003",
+  "name": "Hugo Boss — Golden Code",
+  "brand": "Hugo Boss",
+  "description": "Inspiriert von: Bottled · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-HUGBO-004",
+  "name": "Hugo Boss — Deep Essence",
+  "brand": "Hugo Boss",
+  "description": "Inspiriert von: Bottled Eau de Parfum · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-HUGBO-005",
+  "name": "Hugo Boss — Elixir Nocturne",
+  "brand": "Hugo Boss",
+  "description": "Inspiriert von: Bottled Elixir · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-HUGBO-006",
+  "name": "Hugo Boss — Timeless Legend",
+  "brand": "Hugo Boss",
+  "description": "Inspiriert von: Classic · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-HUGBO-007",
+  "name": "Hugo Boss — Classic Prime",
+  "brand": "Hugo Boss",
+  "description": "Inspiriert von: Classic · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-HUGBO-008",
+  "name": "Hugo Boss — PQ Premium Spirit",
+  "brand": "Hugo Boss",
+  "description": "Inspiriert von: Classic (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-HUGBO-009",
+  "name": "Hugo Boss — Elemental Flow",
+  "brand": "Hugo Boss",
+  "description": "Inspiriert von: Element · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-HUGBO-010",
+  "name": "Hugo Boss — Urban Energy",
+  "brand": "Hugo Boss",
+  "description": "Inspiriert von: Energise · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-HUGBO-011",
+  "name": "Hugo Boss — Extreme Force",
+  "brand": "Hugo Boss",
+  "description": "Inspiriert von: Extrem · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-HUGBO-012",
+  "name": "Hugo Boss — Iced Storm",
+  "brand": "Hugo Boss",
+  "description": "Inspiriert von: Iced · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-HUGBO-013",
+  "name": "Hugo Boss — Motion X",
+  "brand": "Hugo Boss",
+  "description": "Inspiriert von: In Motion · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-HUGBO-014",
+  "name": "Hugo Boss — Ma Vie Rose",
+  "brand": "Hugo Boss",
+  "description": "Inspiriert von: Ma Vie · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-HUGBO-015",
+  "name": "Hugo Boss — Spicy Sunset",
+  "brand": "Hugo Boss",
+  "description": "Inspiriert von: Orange Man · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-HUGBO-016",
+  "name": "Hugo Boss — Orange Bloom",
+  "brand": "Hugo Boss",
+  "description": "Inspiriert von: Orange Woman · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-HUGBO-017",
+  "name": "Hugo Boss — Magnetic Flame",
+  "brand": "Hugo Boss",
+  "description": "Inspiriert von: The Scent · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-HUGBO-018",
+  "name": "Hugo Boss — Oriental Desire",
+  "brand": "Hugo Boss",
+  "description": "Inspiriert von: The Scent Elixir · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-HUGBO-019",
+  "name": "Hugo Boss — Velvet Secret",
+  "brand": "Hugo Boss",
+  "description": "Inspiriert von: The Scent For Her · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-HUM-001",
+  "name": "Hummer — Iron Drive",
+  "brand": "Hummer",
+  "description": "Inspiriert von: Hummer · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-INI-001",
+  "name": "Initio — Musk Essence",
+  "brand": "Initio",
+  "description": "Inspiriert von: Musk Therapy · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-INI-002",
+  "name": "Initio — Sweet Addiction",
+  "brand": "Initio",
+  "description": "Inspiriert von: Narcotic Delight · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-INI-003",
+  "name": "Initio — Oud Supreme",
+  "brand": "Initio",
+  "description": "Inspiriert von: Oud for Greatness · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-INI-004",
+  "name": "Initio — Oud Harmony",
+  "brand": "Initio",
+  "description": "Inspiriert von: Oud for Happiness · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-INI-005",
+  "name": "Initio — Velvet Vice",
+  "brand": "Initio",
+  "description": "Inspiriert von: Side Effect · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ISSMI-001",
+  "name": "Issey Miyake — Issey Bloom",
+  "brand": "Issey Miyake",
+  "description": "Inspiriert von: L'Eau d'Issey Women · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ISSMI-002",
+  "name": "Issey Miyake — Issey Essence",
+  "brand": "Issey Miyake",
+  "description": "Inspiriert von: Man · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-JAC-001",
+  "name": "Jacomo — Jacomo Noir",
+  "brand": "Jacomo",
+  "description": "Inspiriert von: de Jacomo · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-JACBO-001",
+  "name": "Jacques Bogart — One Legend",
+  "brand": "Jacques Bogart",
+  "description": "Inspiriert von: One Man Show · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-JACBO-002",
+  "name": "Jacques Bogart — Silver Flame",
+  "brand": "Jacques Bogart",
+  "description": "Inspiriert von: Silver Scent · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-JAG-001",
+  "name": "Jaguar — Jaguar Spirit",
+  "brand": "Jaguar",
+  "description": "Inspiriert von: Classic · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-JEAPA-001",
+  "name": "Jean Paul Gaultier — Classic Bloom",
+  "brand": "Jean Paul Gaultier",
+  "description": "Inspiriert von: Classique · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-JEAPA-002",
+  "name": "Jean Paul Gaultier — Divine Bloom",
+  "brand": "Jean Paul Gaultier",
+  "description": "Inspiriert von: Gaultier Divine · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-JEAPA-003",
+  "name": "Jean Paul Gaultier — Dual Spirit",
+  "brand": "Jean Paul Gaultier",
+  "description": "Inspiriert von: JPG 2 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-JEAPA-004",
+  "name": "Jean Paul Gaultier — La Belle Essence",
+  "brand": "Jean Paul Gaultier",
+  "description": "Inspiriert von: La Belle · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-JEAPA-005",
+  "name": "Jean Paul Gaultier — Fresh Horizon",
+  "brand": "Jean Paul Gaultier",
+  "description": "Inspiriert von: Le Beau Male · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-JEAPA-006",
+  "name": "Jean Paul Gaultier — Ocean Homme",
+  "brand": "Jean Paul Gaultier",
+  "description": "Inspiriert von: Le Male · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-JEAPA-007",
+  "name": "Jean Paul Gaultier — Elixir Homme",
+  "brand": "Jean Paul Gaultier",
+  "description": "Inspiriert von: Le Male Elixir · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-JEAPA-008",
+  "name": "Jean Paul Gaultier — Scandal Midnight",
+  "brand": "Jean Paul Gaultier",
+  "description": "Inspiriert von: Scandal by Night · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-JEAPA-009",
+  "name": "Jean Paul Gaultier — Intense Scandal",
+  "brand": "Jean Paul Gaultier",
+  "description": "Inspiriert von: Scandal Le Parfum Intense · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-JEAPA-010",
+  "name": "Jean Paul Gaultier — Rebel Night",
+  "brand": "Jean Paul Gaultier",
+  "description": "Inspiriert von: Scandal Man · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-JEAPA-011",
+  "name": "Jean Paul Gaultier — Scandalous Femme",
+  "brand": "Jean Paul Gaultier",
+  "description": "Inspiriert von: Scandal Women · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-JEAPA-012",
+  "name": "Jean Paul Gaultier — Ultra Rebel",
+  "brand": "Jean Paul Gaultier",
+  "description": "Inspiriert von: Ultra Male · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-JEAAR-001",
+  "name": "Jeanne Arthes — Cobra Noir",
+  "brand": "Jeanne Arthes",
+  "description": "Inspiriert von: Cobra · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-JILSA-001",
+  "name": "Jil Sander — Sunshine Glow",
+  "brand": "Jil Sander",
+  "description": "Inspiriert von: Sun · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-JOMA-001",
+  "name": "Jo Malone — PQ Cypress Intense",
+  "brand": "Jo Malone",
+  "description": "Inspiriert von: Cypress & Grapevine (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-JOMA-002",
+  "name": "Jo Malone — Pearl Blossom",
+  "brand": "Jo Malone",
+  "description": "Inspiriert von: English Pear & Freesia · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-JOMA-003",
+  "name": "Jo Malone — Myrrh Tonka Essence",
+  "brand": "Jo Malone",
+  "description": "Inspiriert von: Myrrh & Tonka · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-JOMA-004",
+  "name": "Jo Malone — Sea Sage",
+  "brand": "Jo Malone",
+  "description": "Inspiriert von: Wood Sage & Sea Salt · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-JOO-001",
+  "name": "Joop! — Scarlet Code",
+  "brand": "Joop!",
+  "description": "Inspiriert von: Homme · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-JOO-002",
+  "name": "Joop! — Midnight Sky",
+  "brand": "Joop!",
+  "description": "Inspiriert von: Nightflight · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-JOO-003",
+  "name": "Joop! — Bold Impact",
+  "brand": "Joop!",
+  "description": "Inspiriert von: WOW! · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-JULHA-001",
+  "name": "Juliette Has A Gun — Pure Essence",
+  "brand": "Juliette Has A Gun",
+  "description": "Inspiriert von: Not a Perfume · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-JULHA-002",
+  "name": "Juliette Has A Gun — Vanilla Waves",
+  "brand": "Juliette Has A Gun",
+  "description": "Inspiriert von: Vanilla Vibes · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-KAHAL-001",
+  "name": "Kaher Alnesaa — Heaven Light",
+  "brand": "Kaher Alnesaa",
+  "description": "Inspiriert von: Classic · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-KAY-001",
+  "name": "Kayali — White Blossom Dream",
+  "brand": "Kayali",
+  "description": "Inspiriert von: Déjà Vu White Flower 57 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-KAY-002",
+  "name": "Kayali — PQ Amber Secret PQ",
+  "brand": "Kayali",
+  "description": "Inspiriert von: Invite Only Amber 23 (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-KAY-003",
+  "name": "Kayali — Cherry Flame",
+  "brand": "Kayali",
+  "description": "Inspiriert von: Lovefest Burning Cherry 48 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-KAY-004",
+  "name": "Kayali — Orange Blossom Soul",
+  "brand": "Kayali",
+  "description": "Inspiriert von: Marrakesh In A Bottle Orange Blossom 24 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-KAY-005",
+  "name": "Kayali — Sweet Banana Sun",
+  "brand": "Kayali",
+  "description": "Inspiriert von: Maui In A Bottle Sweet Banana 37 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-KAY-006",
+  "name": "Kayali — Vanilla Oud Mystique",
+  "brand": "Kayali",
+  "description": "Inspiriert von: Oudgasm Vanilla Oud 36 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-KAY-007",
+  "name": "Kayali — Velvet Santal",
+  "brand": "Kayali",
+  "description": "Inspiriert von: The Wedding Velvet Santal 35 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-KAY-008",
+  "name": "Kayali — Vanilla Aura",
+  "brand": "Kayali",
+  "description": "Inspiriert von: Vanilla 28 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-KAY-009",
+  "name": "Kayali — Candy Rock Sugar",
+  "brand": "Kayali",
+  "description": "Inspiriert von: Vanilla Candy Rock Sugar 42 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-KAY-010",
+  "name": "Kayali — Marshmallow Cloud",
+  "brand": "Kayali",
+  "description": "Inspiriert von: Yum Boujee Marshmallow 81 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-KAY-011",
+  "name": "Kayali — Pistachio Delight",
+  "brand": "Kayali",
+  "description": "Inspiriert von: Yum Pistachio Gelato 33 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-KEN-001",
+  "name": "Kenzo — Flower Essence",
+  "brand": "Kenzo",
+  "description": "Inspiriert von: Flower by Kenzo · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-KEN-002",
+  "name": "Kenzo — Green Spirit",
+  "brand": "Kenzo",
+  "description": "Inspiriert von: Green · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-KEN-003",
+  "name": "Kenzo — Jungle Gold",
+  "brand": "Kenzo",
+  "description": "Inspiriert von: Jungle L'Éléphant · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LAC-001",
+  "name": "Lacoste — Shadow Intense",
+  "brand": "Lacoste",
+  "description": "Inspiriert von: Black · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LAC-002",
+  "name": "Lacoste — Ocean Drive",
+  "brand": "Lacoste",
+  "description": "Inspiriert von: Blue · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LAC-003",
+  "name": "Lacoste — Dynamic Rush",
+  "brand": "Lacoste",
+  "description": "Inspiriert von: Challenge · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LAC-004",
+  "name": "Lacoste — Heritage Line",
+  "brand": "Lacoste",
+  "description": "Inspiriert von: Classic · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LAC-005",
+  "name": "Lacoste — Arctic Vibe",
+  "brand": "Lacoste",
+  "description": "Inspiriert von: Cool Play · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LAC-006",
+  "name": "Lacoste — Crystal Splash",
+  "brand": "Lacoste",
+  "description": "Inspiriert von: Eau Fraiche · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LAC-007",
+  "name": "Lacoste — Core Essence",
+  "brand": "Lacoste",
+  "description": "Inspiriert von: Essential · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LAC-008",
+  "name": "Lacoste — Aqua Breeze",
+  "brand": "Lacoste",
+  "description": "Inspiriert von: Fresh · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LAC-009",
+  "name": "Lacoste — Polar Magnet",
+  "brand": "Lacoste",
+  "description": "Inspiriert von: Magnetic · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LAC-010",
+  "name": "Lacoste — Amber Soul",
+  "brand": "Lacoste",
+  "description": "Inspiriert von: Parfum · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LAC-011",
+  "name": "Lacoste — Crimson Edge",
+  "brand": "Lacoste",
+  "description": "Inspiriert von: Red · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LAC-012",
+  "name": "Lacoste — Pure Horizon",
+  "brand": "Lacoste",
+  "description": "Inspiriert von: White · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LAM-001",
+  "name": "Lamborghini — Lambo Power",
+  "brand": "Lamborghini",
+  "description": "Inspiriert von: Classic · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LAN-001",
+  "name": "Lancôme — Idôle Essence",
+  "brand": "Lancôme",
+  "description": "Inspiriert von: Idôle · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LAN-002",
+  "name": "Lancôme — Idôle Nova",
+  "brand": "Lancôme",
+  "description": "Inspiriert von: Idôle Now · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LAN-003",
+  "name": "Lancôme — Belle Eternelle",
+  "brand": "Lancôme",
+  "description": "Inspiriert von: La Vie Est Belle · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LAN-004",
+  "name": "Lancôme — PQ Belle Eternelle PQ",
+  "brand": "Lancôme",
+  "description": "Inspiriert von: La Vie Est Belle (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LAN-005",
+  "name": "Lancôme — Rose Éclat",
+  "brand": "Lancôme",
+  "description": "Inspiriert von: La Vie Est Belle En Rose · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LAN-006",
+  "name": "Lancôme — Miracle Bloom",
+  "brand": "Lancôme",
+  "description": "Inspiriert von: Miracle · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LAN-007",
+  "name": "Lancôme — Royal Oud Bloom",
+  "brand": "Lancôme",
+  "description": "Inspiriert von: Oud Bouquet · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LAN-008",
+  "name": "Lancôme — Golden Treasure",
+  "brand": "Lancôme",
+  "description": "Inspiriert von: Trésor · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LAN-009",
+  "name": "Lanvin — Marry Me Now",
+  "brand": "Lanvin",
+  "description": "Inspiriert von: Marry Me! · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LAUBI-001",
+  "name": "Laura Biagiotti — Roma Essence",
+  "brand": "Laura Biagiotti",
+  "description": "Inspiriert von: Roma · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LENMU-001",
+  "name": "Lengling Munich — Oriental No.7",
+  "brand": "Lengling Munich",
+  "description": "Inspiriert von: Sekushi No 7 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LESLI-001",
+  "name": "Les Liquides Imaginaires — Velvet Beast",
+  "brand": "Les Liquides Imaginaires",
+  "description": "Inspiriert von: Blanche Bête · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LESLI-002",
+  "name": "Les Liquides Imaginaires — Mystic Liquid",
+  "brand": "Les Liquides Imaginaires",
+  "description": "Inspiriert von: Liquide 2022 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LORPA-001",
+  "name": "Lorenzo Pazzaglia — PQ Sundria",
+  "brand": "Lorenzo Pazzaglia",
+  "description": "Inspiriert von: Sun-Gria · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LOUVU-001",
+  "name": "Louis Vuitton — Ocean Dive",
+  "brand": "Louis Vuitton",
+  "description": "Inspiriert von: Afternoon Swim · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LOUVU-002",
+  "name": "Louis Vuitton — Summit Bloom",
+  "brand": "Louis Vuitton",
+  "description": "Inspiriert von: Apogée · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LOUVU-003",
+  "name": "Louis Vuitton — Dream Catcher",
+  "brand": "Louis Vuitton",
+  "description": "Inspiriert von: Attrape-Rêves · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LOUVU-004",
+  "name": "Louis Vuitton — Green Oasis",
+  "brand": "Louis Vuitton",
+  "description": "Inspiriert von: Cactus Garden · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LOUVU-005",
+  "name": "Louis Vuitton — West Coast Glow",
+  "brand": "Louis Vuitton",
+  "description": "Inspiriert von: California Dream · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LOUVU-006",
+  "name": "Louis Vuitton — Urban Lights",
+  "brand": "Louis Vuitton",
+  "description": "Inspiriert von: City Of Stars · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LOUVU-007",
+  "name": "Louis Vuitton — Whispered Secret",
+  "brand": "Louis Vuitton",
+  "description": "Inspiriert von: Contre Moi · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LOUVU-008",
+  "name": "Louis Vuitton — PQ Beating Heart",
+  "brand": "Louis Vuitton",
+  "description": "Inspiriert von: Cœur Battant · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LOUVU-009",
+  "name": "Louis Vuitton — Desert Bloom",
+  "brand": "Louis Vuitton",
+  "description": "Inspiriert von: Fleur de Desert · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LOUVU-010",
+  "name": "Louis Vuitton — Silent Hours",
+  "brand": "Louis Vuitton",
+  "description": "Inspiriert von: Heures d'Absence · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LOUVU-011",
+  "name": "Louis Vuitton — Pure Vision",
+  "brand": "Louis Vuitton",
+  "description": "Inspiriert von: Imagination · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LOUVU-012",
+  "name": "Louis Vuitton — PQ Pure Vision PQ",
+  "brand": "Louis Vuitton",
+  "description": "Inspiriert von: Imagination (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LOUVU-013",
+  "name": "Louis Vuitton — Infinite Horizon",
+  "brand": "Louis Vuitton",
+  "description": "Inspiriert von: L'Immensité · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LOUVU-014",
+  "name": "Louis Vuitton — PQ Velour Lovers",
+  "brand": "Louis Vuitton",
+  "description": "Inspiriert von: Lovers (PQ) · 50ml Eau de Parfum",
+  "unit_price": 25.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LOUVU-015",
+  "name": "Louis Vuitton — Cosmic Spark",
+  "brand": "Louis Vuitton",
+  "description": "Inspiriert von: Météore · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LOUVU-016",
+  "name": "Louis Vuitton — New Era",
+  "brand": "Louis Vuitton",
+  "description": "Inspiriert von: Nouveau Monde · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LOUVU-017",
+  "name": "Louis Vuitton — Night Blaze",
+  "brand": "Louis Vuitton",
+  "description": "Inspiriert von: Nuit de Feu · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LOUVU-018",
+  "name": "Louis Vuitton — Desert Shadow",
+  "brand": "Louis Vuitton",
+  "description": "Inspiriert von: Ombre Nomade · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LOUVU-019",
+  "name": "Louis Vuitton — PQ Desert Shadow PQ",
+  "brand": "Louis Vuitton",
+  "description": "Inspiriert von: Ombre Nomade (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LOUVU-020",
+  "name": "Louis Vuitton — PQ Sandy Horizon",
+  "brand": "Louis Vuitton",
+  "description": "Inspiriert von: On the Beach · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LOUVU-021",
+  "name": "Louis Vuitton — Ocean Breeze",
+  "brand": "Louis Vuitton",
+  "description": "Inspiriert von: Pacific Chill · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LOUVU-022",
+  "name": "Louis Vuitton — Oud Essence",
+  "brand": "Louis Vuitton",
+  "description": "Inspiriert von: Pur Oud · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LOUVU-023",
+  "name": "Louis Vuitton — Rose Voyage",
+  "brand": "Louis Vuitton",
+  "description": "Inspiriert von: Rose des Vents · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LOUVU-024",
+  "name": "Louis Vuitton — Velvet Spell",
+  "brand": "Louis Vuitton",
+  "description": "Inspiriert von: Spell On You · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LOUVU-025",
+  "name": "Louis Vuitton — Endless Journey",
+  "brand": "Louis Vuitton",
+  "description": "Inspiriert von: Sur La Route · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LOUVU-026",
+  "name": "Louis Vuitton — PQ Golden Turbulence PQ",
+  "brand": "Louis Vuitton",
+  "description": "Inspiriert von: Turbulences (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-LUC-001",
+  "name": "Lucky — Lucky Star",
+  "brand": "Lucky",
+  "description": "Inspiriert von: Lucky Man · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-M.MI-001",
+  "name": "M. Micallef — Sensual Touch",
+  "brand": "M. Micallef",
+  "description": "Inspiriert von: Sensual · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MAICR-001",
+  "name": "Maison Crivelli — PQ Mahaj Bloom",
+  "brand": "Maison Crivelli",
+  "description": "Inspiriert von: Hibiscus Mahajád · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MAICR-002",
+  "name": "Maison Crivelli — PQ Maracuja Essence",
+  "brand": "Maison Crivelli",
+  "description": "Inspiriert von: Oud Maracujá · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MAIDE-001",
+  "name": "Maison de Milan — Milan Intense Love",
+  "brand": "Maison de Milan",
+  "description": "Inspiriert von: My Love Intense · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MAIFR-001",
+  "name": "Maison Francis Kurkdjian — Urban 724",
+  "brand": "Maison Francis Kurkdjian",
+  "description": "Inspiriert von: 724 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MAIFR-002",
+  "name": "Maison Francis Kurkdjian — Amyris Bloom",
+  "brand": "Maison Francis Kurkdjian",
+  "description": "Inspiriert von: Amyris Femme · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MAIFR-003",
+  "name": "Maison Francis Kurkdjian — Pure Aqua",
+  "brand": "Maison Francis Kurkdjian",
+  "description": "Inspiriert von: Aqua Universalis · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MAIFR-004",
+  "name": "Maison Francis Kurkdjian — Crimson Amber",
+  "brand": "Maison Francis Kurkdjian",
+  "description": "Inspiriert von: Baccarat Rouge 540 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MAIFR-005",
+  "name": "Maison Francis Kurkdjian — PQ Crimson Amber PQ",
+  "brand": "Maison Francis Kurkdjian",
+  "description": "Inspiriert von: Baccarat Rouge 540 (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MAIFR-006",
+  "name": "Maison Francis Kurkdjian — Crimson Extrait",
+  "brand": "Maison Francis Kurkdjian",
+  "description": "Inspiriert von: Baccarat Rouge 540 Extrait · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MAIFR-007",
+  "name": "Maison Francis Kurkdjian — Golden Fluidity",
+  "brand": "Maison Francis Kurkdjian",
+  "description": "Inspiriert von: Gentle Fluidity Gold · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MAIFR-008",
+  "name": "Maison Francis Kurkdjian — Golden Soir",
+  "brand": "Maison Francis Kurkdjian",
+  "description": "Inspiriert von: Grand Soir · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MAIFR-009",
+  "name": "Maison Francis Kurkdjian — PQ Kurky Essence",
+  "brand": "Maison Francis Kurkdjian",
+  "description": "Inspiriert von: Kurky · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MAIFR-010",
+  "name": "Maison Francis Kurkdjian — Rose Homme",
+  "brand": "Maison Francis Kurkdjian",
+  "description": "Inspiriert von: L'Homme À la Rose · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MAIFR-011",
+  "name": "Maison Francis Kurkdjian — Satin Oud",
+  "brand": "Maison Francis Kurkdjian",
+  "description": "Inspiriert von: Oud Satin Mood · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MAIFR-012",
+  "name": "Maison Francis Kurkdjian — PQ Silk Oud",
+  "brand": "Maison Francis Kurkdjian",
+  "description": "Inspiriert von: Oud Silk Mood (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MAL-001",
+  "name": "Malizia — Malizia Classico",
+  "brand": "Malizia",
+  "description": "Inspiriert von: Uomo · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MAN-001",
+  "name": "Mancera — Oud Vanilla Essence",
+  "brand": "Mancera",
+  "description": "Inspiriert von: Aoud Vanille · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MAN-002",
+  "name": "Mancera — Dark Vanilla",
+  "brand": "Mancera",
+  "description": "Inspiriert von: Black Vanilla · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MAN-003",
+  "name": "Mancera — Citrus Wood",
+  "brand": "Mancera",
+  "description": "Inspiriert von: Cedrat Boise · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MAN-004",
+  "name": "Mancera — Coco Essence",
+  "brand": "Mancera",
+  "description": "Inspiriert von: Coco Vanille · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MAN-005",
+  "name": "Mancera — PQ Azure Riviera PQ",
+  "brand": "Mancera",
+  "description": "Inspiriert von: French Riviera (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MAN-006",
+  "name": "Mancera — Instant Desire",
+  "brand": "Mancera",
+  "description": "Inspiriert von: Instant Crush · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MAN-007",
+  "name": "Mancera — Noble Casanova",
+  "brand": "Mancera",
+  "description": "Inspiriert von: Monsieur Casanova · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MAN-008",
+  "name": "Mancera — Crimson Smoke",
+  "brand": "Mancera",
+  "description": "Inspiriert von: Red Tobacco · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MAN-009",
+  "name": "Mancera — Rose Vanilla Kiss",
+  "brand": "Mancera",
+  "description": "Inspiriert von: Roses Vanille · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MAN-010",
+  "name": "Mancera — Cola Tonka",
+  "brand": "Mancera",
+  "description": "Inspiriert von: Tonka Cola · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MARBA-001",
+  "name": "Marc-Antoine Barrois — Cosmic Voyage",
+  "brand": "Marc-Antoine Barrois",
+  "description": "Inspiriert von: Ganymede · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MARBA-002",
+  "name": "Marc-Antoine Barrois — Tiliae",
+  "brand": "Marc-Antoine Barrois",
+  "description": "Inspiriert von: Tilia · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MEMPA-001",
+  "name": "Memo Paris — African Leather Essence",
+  "brand": "Memo Paris",
+  "description": "Inspiriert von: African Leather · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MEMPA-002",
+  "name": "Memo Paris — Marfa Bloom",
+  "brand": "Memo Paris",
+  "description": "Inspiriert von: Marfa · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MER-001",
+  "name": "Mercedes-Benz — Mercedes Spirit",
+  "brand": "Mercedes-Benz",
+  "description": "Inspiriert von: Classic · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MILLL-001",
+  "name": "Milton Lloyd — Hawaii Breeze",
+  "brand": "Milton Lloyd",
+  "description": "Inspiriert von: Hawaii · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MONCA-001",
+  "name": "Monsieur Casanova — Casanova Essence",
+  "brand": "Monsieur Casanova",
+  "description": "Inspiriert von: Classic · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-001",
+  "name": "Montale — PQ Golden Musk PQ",
+  "brand": "Montale",
+  "description": "Inspiriert von: Amber Musk (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-002",
+  "name": "Montale — Midnight Oud",
+  "brand": "Montale",
+  "description": "Inspiriert von: Aoud Black · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-003",
+  "name": "Montale — Citrus Oud",
+  "brand": "Montale",
+  "description": "Inspiriert von: Aoud Ever · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-004",
+  "name": "Montale — Floral Oud",
+  "brand": "Montale",
+  "description": "Inspiriert von: Aoud Flowers Collection · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-005",
+  "name": "Montale — Oud Eclipse",
+  "brand": "Montale",
+  "description": "Inspiriert von: Aoud Night · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-006",
+  "name": "Montale — Royal Rose Oud",
+  "brand": "Montale",
+  "description": "Inspiriert von: Aoud Purple Rose · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-007",
+  "name": "Montale — Oriental Tonka",
+  "brand": "Montale",
+  "description": "Inspiriert von: Arabian Tonka · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-008",
+  "name": "Montale — PQ Oriental Tonka PQ",
+  "brand": "Montale",
+  "description": "Inspiriert von: Arabian Tonka (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-009",
+  "name": "Montale — PQ Ruberica Nova",
+  "brand": "Montale",
+  "description": "Inspiriert von: Arabians Musk · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-010",
+  "name": "Montale — Coffee Passion",
+  "brand": "Montale",
+  "description": "Inspiriert von: Café Intense · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-011",
+  "name": "Montale — Romantic Fever",
+  "brand": "Montale",
+  "description": "Inspiriert von: Crazy In Love · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-012",
+  "name": "Montale — Purple Shadow",
+  "brand": "Montale",
+  "description": "Inspiriert von: Dark Purple · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-013",
+  "name": "Montale — Noir Vanilla",
+  "brand": "Montale",
+  "description": "Inspiriert von: Dark Vanilla · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-014",
+  "name": "Montale — Golden Honey Oud",
+  "brand": "Montale",
+  "description": "Inspiriert von: Honey Aoud · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-015",
+  "name": "Montale — Endless Amber",
+  "brand": "Montale",
+  "description": "Inspiriert von: Infinity · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-016",
+  "name": "Montale — Cherry Desire",
+  "brand": "Montale",
+  "description": "Inspiriert von: Intense Cherry · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-017",
+  "name": "Montale — Oriental Blend",
+  "brand": "Montale",
+  "description": "Inspiriert von: Mukhallat · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-018",
+  "name": "Montale — Majestic Oud",
+  "brand": "Montale",
+  "description": "Inspiriert von: Oud Mazing · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-019",
+  "name": "Montale — Velvet Oud",
+  "brand": "Montale",
+  "description": "Inspiriert von: Oud Pashmina · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-020",
+  "name": "Montale — Golden Bloom",
+  "brand": "Montale",
+  "description": "Inspiriert von: Pure Gold · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-021",
+  "name": "Montale — Velvet Rose",
+  "brand": "Montale",
+  "description": "Inspiriert von: Roses Musk · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-022",
+  "name": "Montale — Instinct Passion",
+  "brand": "Montale",
+  "description": "Inspiriert von: Sensual Instinct · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-023",
+  "name": "Montale — Fiery Oud",
+  "brand": "Montale",
+  "description": "Inspiriert von: Spicy Aoud · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-024",
+  "name": "Montale — Cosmic Glow",
+  "brand": "Montale",
+  "description": "Inspiriert von: Starry Night · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-025",
+  "name": "Montale — Peony Dream",
+  "brand": "Montale",
+  "description": "Inspiriert von: Sweet Peony · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-026",
+  "name": "Montale — Vanilla Sweetness",
+  "brand": "Montale",
+  "description": "Inspiriert von: Sweet Vanille · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-027",
+  "name": "Montale — Vanilla Delight",
+  "brand": "Montale",
+  "description": "Inspiriert von: Vanilla Cake · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-028",
+  "name": "Montale — Absolute Vanilla",
+  "brand": "Montale",
+  "description": "Inspiriert von: Vanille Absolu · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-029",
+  "name": "Montale — Crystal Oud",
+  "brand": "Montale",
+  "description": "Inspiriert von: White Oud · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-030",
+  "name": "Montale — Spiced Woods",
+  "brand": "Montale",
+  "description": "Inspiriert von: Wood Spices · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-031",
+  "name": "Montblanc — Platinum Quest",
+  "brand": "Montblanc",
+  "description": "Inspiriert von: Explorer Platinum · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MON-032",
+  "name": "Montblanc — Eternal Mark",
+  "brand": "Montblanc",
+  "description": "Inspiriert von: Legend · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MUG-001",
+  "name": "Mugler — Mystic Alien",
+  "brand": "Mugler",
+  "description": "Inspiriert von: Alien · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MUG-002",
+  "name": "Mugler — PQ Alien Royale",
+  "brand": "Mugler",
+  "description": "Inspiriert von: Alien (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MUG-003",
+  "name": "Mugler — Starry Rebel",
+  "brand": "Mugler",
+  "description": "Inspiriert von: Angel Man · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MUG-004",
+  "name": "Mugler — Sweet Galaxy",
+  "brand": "Mugler",
+  "description": "Inspiriert von: Angel Women · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-MÄUWI-001",
+  "name": "Mäurer & Wirtz — Tosca Classica",
+  "brand": "Mäurer & Wirtz",
+  "description": "Inspiriert von: Tosca · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-NARRO-001",
+  "name": "Narciso Rodriguez — For Her Essence",
+  "brand": "Narciso Rodriguez",
+  "description": "Inspiriert von: For Her · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-NARRO-002",
+  "name": "Narciso Rodriguez — Pure Musc Touch",
+  "brand": "Narciso Rodriguez",
+  "description": "Inspiriert von: For Her Pure Musc · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-NARRO-003",
+  "name": "Narciso Rodriguez — Noir Essence",
+  "brand": "Narciso Rodriguez",
+  "description": "Inspiriert von: Musc Noir For Her · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-NARRO-004",
+  "name": "Narciso Rodriguez — Rose Noir Essence",
+  "brand": "Narciso Rodriguez",
+  "description": "Inspiriert von: Musc Noir Rose For Her · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-NARRO-005",
+  "name": "Narciso Rodriguez — Rouge Touch",
+  "brand": "Narciso Rodriguez",
+  "description": "Inspiriert von: Narciso Rouge · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-NARRO-006",
+  "name": "Narciso Rodriguez — Poudrée Elegance",
+  "brand": "Narciso Rodriguez",
+  "description": "Inspiriert von: Poudrée · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-NAS-001",
+  "name": "Nasomatto — Black Afgano Noir",
+  "brand": "Nasomatto",
+  "description": "Inspiriert von: Black Afgano · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-NAS-002",
+  "name": "Nasomatto — PQ Black Afgano Noir PQ",
+  "brand": "Nasomatto",
+  "description": "Inspiriert von: Black Afgano (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-NAS-003",
+  "name": "Nasomatto — Fantomas Shadow",
+  "brand": "Nasomatto",
+  "description": "Inspiriert von: Fantomas · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-NAU-001",
+  "name": "Nautica — Voyage Femme",
+  "brand": "Nautica",
+  "description": "Inspiriert von: Voyage Women · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-NIC-001",
+  "name": "Nicolai — PQ Dark Patchouli",
+  "brand": "Nicolai",
+  "description": "Inspiriert von: Patchouli Intense (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-NIK-001",
+  "name": "Nikos — Crystal Sculpture",
+  "brand": "Nikos",
+  "description": "Inspiriert von: Sculpture · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-NINRI-001",
+  "name": "Nina Ricci — Nina Bloom",
+  "brand": "Nina Ricci",
+  "description": "Inspiriert von: Nina · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-NINRI-002",
+  "name": "Nina Ricci — Ricci Charm",
+  "brand": "Nina Ricci",
+  "description": "Inspiriert von: Ricci Ricci · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-NIS-001",
+  "name": "Nishane — Ani Flame",
+  "brand": "Nishane",
+  "description": "Inspiriert von: Ani · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-NIS-002",
+  "name": "Nishane — Hacivat Spirit",
+  "brand": "Nishane",
+  "description": "Inspiriert von: Hacivat · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-NIS-003",
+  "name": "Nishane — Hacivat Xtreme",
+  "brand": "Nishane",
+  "description": "Inspiriert von: Hacivat X · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-NIS-004",
+  "name": "Nishane — Silent Aur",
+  "brand": "Nishane",
+  "description": "Inspiriert von: Hundred Silent Ways · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-NIS-005",
+  "name": "Nishane — PQ Nefs Royale PQ",
+  "brand": "Nishane",
+  "description": "Inspiriert von: Nefs (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-NIS-006",
+  "name": "Nishane — Shem Essence",
+  "brand": "Nishane",
+  "description": "Inspiriert von: Shem · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-NIS-007",
+  "name": "Nishane — Whlong Tea",
+  "brand": "Nishane",
+  "description": "Inspiriert von: Whlong Cha · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ORITO-001",
+  "name": "Oriental Touch — Thursday Night",
+  "brand": "Oriental Touch",
+  "description": "Inspiriert von: Donnerstagsnacht · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ORITO-002",
+  "name": "Oriental Touch — Sultan's Secret",
+  "brand": "Oriental Touch",
+  "description": "Inspiriert von: Harem des Sultans · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ORITO-003",
+  "name": "Oriental Touch — Magic Girl",
+  "brand": "Oriental Touch",
+  "description": "Inspiriert von: Mädchenzauber · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ORITO-004",
+  "name": "Oriental Touch — Heartbreaker Man",
+  "brand": "Oriental Touch",
+  "description": "Inspiriert von: Männerherzbrecher · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ORITO-005",
+  "name": "Oriental Touch — Beauty Powder",
+  "brand": "Oriental Touch",
+  "description": "Inspiriert von: Parfum de Schminke · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ORL-001",
+  "name": "Orlane — Leather Derrick",
+  "brand": "Orlane",
+  "description": "Inspiriert von: Derrick · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ORTPA-001",
+  "name": "Orto Parisi — Citrus Bergamask",
+  "brand": "Orto Parisi",
+  "description": "Inspiriert von: Bergamask · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ORTPA-002",
+  "name": "Orto Parisi — Mega Mare",
+  "brand": "Orto Parisi",
+  "description": "Inspiriert von: Megamare · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ORTPA-003",
+  "name": "Orto Parisi — Terroni Flame",
+  "brand": "Orto Parisi",
+  "description": "Inspiriert von: Terroni · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PACRA-001",
+  "name": "Paco Rabanne — Dark XS",
+  "brand": "Paco Rabanne",
+  "description": "Inspiriert von: Black XS · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PACRA-002",
+  "name": "Paco Rabanne — Midnight XS",
+  "brand": "Paco Rabanne",
+  "description": "Inspiriert von: Black XS · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PACRA-003",
+  "name": "Paco Rabanne — Fame Essence",
+  "brand": "Paco Rabanne",
+  "description": "Inspiriert von: Fame · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PACRA-004",
+  "name": "Paco Rabanne — Invincible Classic",
+  "brand": "Paco Rabanne",
+  "description": "Inspiriert von: Invictus · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PACRA-005",
+  "name": "Paco Rabanne — Invincible Aqua",
+  "brand": "Paco Rabanne",
+  "description": "Inspiriert von: Invictus Aqua · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PACRA-006",
+  "name": "Paco Rabanne — Invincible Intense",
+  "brand": "Paco Rabanne",
+  "description": "Inspiriert von: Invictus Intense · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PACRA-007",
+  "name": "Paco Rabanne — Lady Gold",
+  "brand": "Paco Rabanne",
+  "description": "Inspiriert von: Lady Million · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PACRA-008",
+  "name": "Paco Rabanne — Lady Luck",
+  "brand": "Paco Rabanne",
+  "description": "Inspiriert von: Lady Million Lucky · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PACRA-009",
+  "name": "Paco Rabanne — Lady Royal",
+  "brand": "Paco Rabanne",
+  "description": "Inspiriert von: Lady Million Royal · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PACRA-010",
+  "name": "Paco Rabanne — XS Legacy",
+  "brand": "Paco Rabanne",
+  "description": "Inspiriert von: Lixeses XS · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PACRA-011",
+  "name": "Paco Rabanne — Olympia Spirit",
+  "brand": "Paco Rabanne",
+  "description": "Inspiriert von: Olympea · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PACRA-012",
+  "name": "Paco Rabanne — Olympia Blossom",
+  "brand": "Paco Rabanne",
+  "description": "Inspiriert von: Olympea Blossom · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PACRA-013",
+  "name": "Paco Rabanne — Golden One",
+  "brand": "Paco Rabanne",
+  "description": "Inspiriert von: One Million · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PACRA-014",
+  "name": "Paco Rabanne — PQ Golden One PQ",
+  "brand": "Paco Rabanne",
+  "description": "Inspiriert von: One Million (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PACRA-015",
+  "name": "Paco Rabanne — Elixir One",
+  "brand": "Paco Rabanne",
+  "description": "Inspiriert von: One Million Elixir · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PACRA-016",
+  "name": "Paco Rabanne — Golden Oud One",
+  "brand": "Paco Rabanne",
+  "description": "Inspiriert von: One Million Golden Oud · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PACRA-017",
+  "name": "Paco Rabanne — Lucky One",
+  "brand": "Paco Rabanne",
+  "description": "Inspiriert von: One Million Lucky · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PACRA-018",
+  "name": "Paco Rabanne — Golden Privé",
+  "brand": "Paco Rabanne",
+  "description": "Inspiriert von: One Million Privé · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PACRA-019",
+  "name": "Paco Rabanne — Royal One",
+  "brand": "Paco Rabanne",
+  "description": "Inspiriert von: One Million Royal · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PACRA-020",
+  "name": "Paco Rabanne — Phantom Spirit",
+  "brand": "Paco Rabanne",
+  "description": "Inspiriert von: Phantom · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PACRA-021",
+  "name": "Paco Rabanne — Pure Desire",
+  "brand": "Paco Rabanne",
+  "description": "Inspiriert von: Pure XS · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PAC-001",
+  "name": "Pacoma — Cassilia Bloom",
+  "brand": "Pacoma",
+  "description": "Inspiriert von: Cassilia · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PARDE-001",
+  "name": "Parfums de Marly — Vanilla Empire",
+  "brand": "Parfums de Marly",
+  "description": "Inspiriert von: Althaïr · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PARDE-002",
+  "name": "Parfums de Marly — Velvet Rose",
+  "brand": "Parfums de Marly",
+  "description": "Inspiriert von: Delina · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PARDE-003",
+  "name": "Parfums de Marly — Highland Spirit",
+  "brand": "Parfums de Marly",
+  "description": "Inspiriert von: Galloway · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PARDE-004",
+  "name": "Parfums de Marly — Leather Royal",
+  "brand": "Parfums de Marly",
+  "description": "Inspiriert von: Godolphin · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PARDE-005",
+  "name": "Parfums de Marly — PQ Verdant Spirit",
+  "brand": "Parfums de Marly",
+  "description": "Inspiriert von: Greenley · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PARDE-006",
+  "name": "Parfums de Marly — Noble Woods",
+  "brand": "Parfums de Marly",
+  "description": "Inspiriert von: Haltane · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PARDE-007",
+  "name": "Parfums de Marly — Royal Tobacco",
+  "brand": "Parfums de Marly",
+  "description": "Inspiriert von: Herod · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PARDE-008",
+  "name": "Parfums de Marly — Crimson Flame",
+  "brand": "Parfums de Marly",
+  "description": "Inspiriert von: Kalan · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PARDE-009",
+  "name": "Parfums de Marly — Velvet Power",
+  "brand": "Parfums de Marly",
+  "description": "Inspiriert von: Layton · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PARDE-010",
+  "name": "Parfums de Marly — PQ Velvet Power PQ",
+  "brand": "Parfums de Marly",
+  "description": "Inspiriert von: Layton (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PARDE-011",
+  "name": "Parfums de Marly — Golden Nectar",
+  "brand": "Parfums de Marly",
+  "description": "Inspiriert von: Oajan · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PARDE-012",
+  "name": "Parfums de Marly — Imperial Oud",
+  "brand": "Parfums de Marly",
+  "description": "Inspiriert von: Palatine · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PARDE-013",
+  "name": "Parfums de Marly — Silver Stallion",
+  "brand": "Parfums de Marly",
+  "description": "Inspiriert von: Pegasus · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PARDE-014",
+  "name": "Parfums de Marly — Blue Horizon",
+  "brand": "Parfums de Marly",
+  "description": "Inspiriert von: Percival · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PARDE-015",
+  "name": "Parfums de Marly — PQ Perseon",
+  "brand": "Parfums de Marly",
+  "description": "Inspiriert von: Perseus · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PARDE-016",
+  "name": "Parfums de Marly — Amber Rose",
+  "brand": "Parfums de Marly",
+  "description": "Inspiriert von: Safanad · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PARDE-017",
+  "name": "Parfums de Marly — Fresh Aristocrat",
+  "brand": "Parfums de Marly",
+  "description": "Inspiriert von: Sedley · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PARDE-018",
+  "name": "Parfums de Marly — Desert Rider",
+  "brand": "Parfums de Marly",
+  "description": "Inspiriert von: Shagya · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PARDE-019",
+  "name": "Parfums de Marly — White Elegance",
+  "brand": "Parfums de Marly",
+  "description": "Inspiriert von: Valaya · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PARHI-001",
+  "name": "Paris Hilton — Hilton Man Spirit",
+  "brand": "Paris Hilton",
+  "description": "Inspiriert von: Man · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PARHI-002",
+  "name": "Paris Hilton — Hilton Femme",
+  "brand": "Paris Hilton",
+  "description": "Inspiriert von: Women · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PEN-001",
+  "name": "Penhaligon's — Clara Secret",
+  "brand": "Penhaligon's",
+  "description": "Inspiriert von: Clandestine Clara · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PEN-002",
+  "name": "Penhaligon's — Halfeti Noir",
+  "brand": "Penhaligon's",
+  "description": "Inspiriert von: Halfeti · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PEN-003",
+  "name": "Penhaligon's — William Noble",
+  "brand": "Penhaligon's",
+  "description": "Inspiriert von: The Inimitable William · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PEN-004",
+  "name": "Penhaligon's — Lord George Tragedy",
+  "brand": "Penhaligon's",
+  "description": "Inspiriert von: The Tragedy of Lord George · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PLA-001",
+  "name": "Playboy — Golden Heels",
+  "brand": "Playboy",
+  "description": "Inspiriert von: Playboy · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PRA-001",
+  "name": "Prada — Amber Classic",
+  "brand": "Prada",
+  "description": "Inspiriert von: Amber Pour Homme · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PRA-002",
+  "name": "Prada — Candy Sweet",
+  "brand": "Prada",
+  "description": "Inspiriert von: Candy · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PRA-003",
+  "name": "Prada — Urban Homme",
+  "brand": "Prada",
+  "description": "Inspiriert von: L'Homme · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PRA-004",
+  "name": "Prada — Luna Black",
+  "brand": "Prada",
+  "description": "Inspiriert von: Luna Rossa Black · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PRA-005",
+  "name": "Prada — Carbon Homme",
+  "brand": "Prada",
+  "description": "Inspiriert von: Luna Rossa Carbon · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PRA-006",
+  "name": "Prada — Paradox Bloom",
+  "brand": "Prada",
+  "description": "Inspiriert von: Paradoxe · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PRORO-001",
+  "name": "Profumum Roma — Sugar Aqua",
+  "brand": "Profumum Roma",
+  "description": "Inspiriert von: Acqua e Zucchero · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PRORO-002",
+  "name": "Profumum Roma — Salty Breeze",
+  "brand": "Profumum Roma",
+  "description": "Inspiriert von: Aqua Di Sale · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-PRORO-003",
+  "name": "Profumum Roma — Nuvella",
+  "brand": "Profumum Roma",
+  "description": "Inspiriert von: Confetto · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-RALLA-001",
+  "name": "Ralph Lauren — Black Essence",
+  "brand": "Ralph Lauren",
+  "description": "Inspiriert von: Polo Black · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-RALLA-002",
+  "name": "Ralph Lauren — Blue Horizon",
+  "brand": "Ralph Lauren",
+  "description": "Inspiriert von: Polo Blue · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-RALLA-003",
+  "name": "Ralph Lauren — Explorer Spirit",
+  "brand": "Ralph Lauren",
+  "description": "Inspiriert von: Polo Explorer · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-RALLA-004",
+  "name": "Ralph Lauren — Purple Oud",
+  "brand": "Ralph Lauren",
+  "description": "Inspiriert von: Purple Label · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-RALLA-005",
+  "name": "Ralph Lauren — Ralph Bloom",
+  "brand": "Ralph Lauren",
+  "description": "Inspiriert von: Ralph · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-RALLA-006",
+  "name": "Ralph Lauren — Romance Essence",
+  "brand": "Ralph Lauren",
+  "description": "Inspiriert von: Romance · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-RALLA-007",
+  "name": "Ralph Lauren — Safari Legend",
+  "brand": "Ralph Lauren",
+  "description": "Inspiriert von: Safari · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-RAS-001",
+  "name": "Rasasi — Blue Horizon",
+  "brand": "Rasasi",
+  "description": "Inspiriert von: Blue For Men · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-RAS-002",
+  "name": "Rasasi — Lady Blue",
+  "brand": "Rasasi",
+  "description": "Inspiriert von: Blue Lady · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-RAS-003",
+  "name": "Rasasi — Hawas Wave",
+  "brand": "Rasasi",
+  "description": "Inspiriert von: Hawas · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-RAS-004",
+  "name": "Rasasi — Romance Spirit",
+  "brand": "Rasasi",
+  "description": "Inspiriert von: Romance · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-REV-001",
+  "name": "Revlon — Charlie Classic",
+  "brand": "Revlon",
+  "description": "Inspiriert von: Charlie · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ROBCA-001",
+  "name": "Roberto Cavalli — Cavalli Gold",
+  "brand": "Roberto Cavalli",
+  "description": "Inspiriert von: Eau de Parfum · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ROBCA-002",
+  "name": "Roberto Cavalli — Paradise Secret",
+  "brand": "Roberto Cavalli",
+  "description": "Inspiriert von: Paradise Found · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ROC-001",
+  "name": "Rochas — Rochas Dame",
+  "brand": "Rochas",
+  "description": "Inspiriert von: Madame · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ROC-002",
+  "name": "Rochas — Rochas Homme",
+  "brand": "Rochas",
+  "description": "Inspiriert von: Man · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ROJDO-001",
+  "name": "Roja Dove — Amber Royale",
+  "brand": "Roja Dove",
+  "description": "Inspiriert von: Amber Aoud · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ROJDO-002",
+  "name": "Roja Dove — Elysian Man",
+  "brand": "Roja Dove",
+  "description": "Inspiriert von: Elysium Pour Homme · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ROJDO-003",
+  "name": "Roja Dove — Reckless Spirit",
+  "brand": "Roja Dove",
+  "description": "Inspiriert von: Reckless Pour Homme · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ROY-001",
+  "name": "Royal — Royal Azure",
+  "brand": "Royal",
+  "description": "Inspiriert von: Blue · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ROY-002",
+  "name": "Royal — Royal Classic",
+  "brand": "Royal",
+  "description": "Inspiriert von: Classic · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-RÉMMA-001",
+  "name": "Rémy Marquis — Oriental Flame",
+  "brand": "Rémy Marquis",
+  "description": "Inspiriert von: Shalis · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-RÉMMA-002",
+  "name": "Rémy Marquis — Shalis Bloom",
+  "brand": "Rémy Marquis",
+  "description": "Inspiriert von: Shalis Women · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-S.TDU-001",
+  "name": "S.T. Dupont — Dupont Classico",
+  "brand": "S.T. Dupont",
+  "description": "Inspiriert von: Classic · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-SCO-001",
+  "name": "Scorpio — Scorpio Spirit",
+  "brand": "Scorpio",
+  "description": "Inspiriert von: Classic · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-STÉHU-001",
+  "name": "Stéphane Humbert Lucas — Lord of Fire",
+  "brand": "Stéphane Humbert Lucas",
+  "description": "Inspiriert von: God of Fire · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-STÉHU-002",
+  "name": "Stéphane Humbert Lucas — Venora",
+  "brand": "Stéphane Humbert Lucas",
+  "description": "Inspiriert von: Venom Incarnat · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TEDLA-001",
+  "name": "Ted Lapidus — Lapidus Homme",
+  "brand": "Ted Lapidus",
+  "description": "Inspiriert von: Man · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TEDLA-002",
+  "name": "Ted Lapidus — Rumba Passion",
+  "brand": "Ted Lapidus",
+  "description": "Inspiriert von: Rumba · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TEDLA-003",
+  "name": "Ted Lapidus — Lapidus Femme",
+  "brand": "Ted Lapidus",
+  "description": "Inspiriert von: Woman · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-THEHO-001",
+  "name": "The House Of Oud — Sweet Oasis",
+  "brand": "The House Of Oud",
+  "description": "Inspiriert von: Dates Delight · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-THEHO-002",
+  "name": "The House Of Oud — PQ Glazelle",
+  "brand": "The House Of Oud",
+  "description": "Inspiriert von: Keep Glazed · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-THESP-001",
+  "name": "The Spirit of Dubai — Dubai Turath",
+  "brand": "The Spirit of Dubai",
+  "description": "Inspiriert von: Turath · 50ml Eau de Parfum",
+  "unit_price": 25.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TIZTE-001",
+  "name": "Tiziana Terenzi — Andromeda Dream",
+  "brand": "Tiziana Terenzi",
+  "description": "Inspiriert von: Andromeda · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TIZTE-002",
+  "name": "Tiziana Terenzi — PQ Ocean Atlantide PQ",
+  "brand": "Tiziana Terenzi",
+  "description": "Inspiriert von: Atlantide (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TIZTE-003",
+  "name": "Tiziana Terenzi — Casanova Night",
+  "brand": "Tiziana Terenzi",
+  "description": "Inspiriert von: Casanova Extrait · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TIZTE-004",
+  "name": "Tiziana Terenzi — Cassiopea Light",
+  "brand": "Tiziana Terenzi",
+  "description": "Inspiriert von: Cassiopea · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TIZTE-005",
+  "name": "Tiziana Terenzi — Sweet Delox",
+  "brand": "Tiziana Terenzi",
+  "description": "Inspiriert von: Delox · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TIZTE-006",
+  "name": "Tiziana Terenzi — Citrus Gumin",
+  "brand": "Tiziana Terenzi",
+  "description": "Inspiriert von: Gumin Extrait · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TIZTE-007",
+  "name": "Tiziana Terenzi — Halley Glow",
+  "brand": "Tiziana Terenzi",
+  "description": "Inspiriert von: Halley Extrait · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TIZTE-008",
+  "name": "Tiziana Terenzi — Exotic Kirke",
+  "brand": "Tiziana Terenzi",
+  "description": "Inspiriert von: Kirke · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TIZTE-009",
+  "name": "Tiziana Terenzi — PQ Exotic Kirke PQ",
+  "brand": "Tiziana Terenzi",
+  "description": "Inspiriert von: Kirke (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TIZTE-010",
+  "name": "Tiziana Terenzi — Orion Sky",
+  "brand": "Tiziana Terenzi",
+  "description": "Inspiriert von: Orion · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TIZTE-011",
+  "name": "Tiziana Terenzi — Orza Bloom",
+  "brand": "Tiziana Terenzi",
+  "description": "Inspiriert von: Orza · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TIZTE-012",
+  "name": "Tiziana Terenzi — Pompei Rouge",
+  "brand": "Tiziana Terenzi",
+  "description": "Inspiriert von: Rosso Pompei · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TIZTE-013",
+  "name": "Tiziana Terenzi — Sirrah Flame",
+  "brand": "Tiziana Terenzi",
+  "description": "Inspiriert von: Sirrah Extrait · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TIZTE-014",
+  "name": "Tiziana Terenzi — PQ Aqua Telea PQ",
+  "brand": "Tiziana Terenzi",
+  "description": "Inspiriert von: Telea (PQ) · 50ml Eau de Parfum",
+  "unit_price": 25.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TIZTE-015",
+  "name": "Tiziana Terenzi — Velour Star",
+  "brand": "Tiziana Terenzi",
+  "description": "Inspiriert von: Velorum · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-001",
+  "name": "Tom Ford — Velvet Peach",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Bitter Peach · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-002",
+  "name": "Tom Ford — Midnight Bloom",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Black Orchid · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-003",
+  "name": "Tom Ford — PQ Midnight Bloom PQ",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Black Orchid (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-004",
+  "name": "Tom Ford — Dark Rose",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Café Rose · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-005",
+  "name": "Tom Ford — PQ Smoked Cherry",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Cherry Smoke · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-006",
+  "name": "Tom Ford — Azure Coast",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Costa Azzurra Parfum · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-007",
+  "name": "Tom Ford — Sparkling Cherry",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Electric Cherry · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-008",
+  "name": "Tom Ford — Fabulous Oud",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Fucking Fabulous · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-009",
+  "name": "Tom Ford — Hidden Cherry",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Lost Cherry · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-010",
+  "name": "Tom Ford — PQ Hidden Cherry PQ",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Lost Cherry (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-011",
+  "name": "Tom Ford — Amalfi Citrus",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Mandarino Di Amalfi · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-012",
+  "name": "Tom Ford — Silver Bloom",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Metallique · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-013",
+  "name": "Tom Ford — Sacred Resin",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Myrrhe Mystère · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-014",
+  "name": "Tom Ford — Citrus Port",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Neroli Portofino · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-015",
+  "name": "Tom Ford — Dark Essence",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Noir · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-016",
+  "name": "Tom Ford — Dark Essence Intense",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Noir Extreme · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-017",
+  "name": "Tom Ford — PQ Dark Essence Intense PQ",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Noir Extreme (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-018",
+  "name": "Tom Ford — Shadow Hide",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Ombre Leather · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-019",
+  "name": "Tom Ford — Shadow Leather",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Ombre Leather Parfum · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-020",
+  "name": "Tom Ford — Mineral Oud",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Oud Minérale · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-021",
+  "name": "Tom Ford — Oud Essence",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Oud Wood · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-022",
+  "name": "Tom Ford — Deep Earth",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Patchouli Absolu · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-023",
+  "name": "Tom Ford — Wild Rose",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Rose Prick · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-024",
+  "name": "Tom Ford — Golden Sun",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Soleil Blanc · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-025",
+  "name": "Tom Ford — Royal Smoke",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Tobacco Oud · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-026",
+  "name": "Tom Ford — Amber Smoke",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Tobacco Vanille · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-027",
+  "name": "Tom Ford — PQ Amber Smoke PQ",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Tobacco Vanille (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-028",
+  "name": "Tom Ford — Tuscan Hide",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Tuscan Leather · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-029",
+  "name": "Tom Ford — Fatal Vanilla",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Vanille Fatale · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-030",
+  "name": "Tom Ford — Velour Vanilla",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Vanille Sex · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-031",
+  "name": "Tom Ford — Velvet Bloom",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Velvet Orchid · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-032",
+  "name": "Tom Ford — Golden Violet",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Violet Blonde · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMFO-033",
+  "name": "Tom Ford — Smoked Ebony",
+  "brand": "Tom Ford",
+  "description": "Inspiriert von: Ébène Fumé · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-TOMHI-001",
+  "name": "Tommy Hilfiger — Heritage Spirit",
+  "brand": "Tommy Hilfiger",
+  "description": "Inspiriert von: Classic · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-VAL-001",
+  "name": "Valentino — Valentino Donna Classic",
+  "brand": "Valentino",
+  "description": "Inspiriert von: Donna · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-VAL-002",
+  "name": "Valentino — Valentino Donna Roma",
+  "brand": "Valentino",
+  "description": "Inspiriert von: Donna Born In Roma · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-VAL-003",
+  "name": "Valentino — Valentino Uomo Classic",
+  "brand": "Valentino",
+  "description": "Inspiriert von: Uomo · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-VAL-004",
+  "name": "Valentino — Valentino Uomo Roma",
+  "brand": "Valentino",
+  "description": "Inspiriert von: Uomo Born In Roma · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-VAL-005",
+  "name": "Valentino — Voce Bloom",
+  "brand": "Valentino",
+  "description": "Inspiriert von: Voce Viva · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-VER-001",
+  "name": "Versace — Aqua Absolu",
+  "brand": "Versace",
+  "description": "Inspiriert von: Absolu · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-VER-002",
+  "name": "Versace — Blue Spirit",
+  "brand": "Versace",
+  "description": "Inspiriert von: Blue Jeans · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-VER-003",
+  "name": "Versace — Crystal Bright",
+  "brand": "Versace",
+  "description": "Inspiriert von: Bright Crystal · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-VER-004",
+  "name": "Versace — Noir Crystal",
+  "brand": "Versace",
+  "description": "Inspiriert von: Crystal Noir · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-VER-005",
+  "name": "Versace — Urban Dylan",
+  "brand": "Versace",
+  "description": "Inspiriert von: Dylan Blue · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-VER-006",
+  "name": "Versace — Eros Classic",
+  "brand": "Versace",
+  "description": "Inspiriert von: Eros · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-VER-007",
+  "name": "Versace — Eros Flame Essence",
+  "brand": "Versace",
+  "description": "Inspiriert von: Eros Flame · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-VER-008",
+  "name": "Versace — Eros Femme",
+  "brand": "Versace",
+  "description": "Inspiriert von: Eros Pour Femme · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-VER-009",
+  "name": "Versace — Red Spirit",
+  "brand": "Versace",
+  "description": "Inspiriert von: Red Jeans · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-VICSE-001",
+  "name": "Victoria's Secret — Golden Bombshell",
+  "brand": "Victoria's Secret",
+  "description": "Inspiriert von: Bombshell Gold · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-VICSE-002",
+  "name": "Victoria's Secret — Fabulous Glow",
+  "brand": "Victoria's Secret",
+  "description": "Inspiriert von: Fabulous · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-VICSE-003",
+  "name": "Victoria's Secret — Heavenly Love",
+  "brand": "Victoria's Secret",
+  "description": "Inspiriert von: Love is Heavenly · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-VIKRO-001",
+  "name": "Viktor & Rolf — Caramel Bonbon",
+  "brand": "Viktor & Rolf",
+  "description": "Inspiriert von: Bonbon · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-VIKRO-002",
+  "name": "Viktor & Rolf — Bloom Explosion",
+  "brand": "Viktor & Rolf",
+  "description": "Inspiriert von: Flowerbomb · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-VIKRO-003",
+  "name": "Viktor & Rolf — Spice Inferno",
+  "brand": "Viktor & Rolf",
+  "description": "Inspiriert von: Spicebomb · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-VILPA-001",
+  "name": "Vilhelm Parfumerie — Green Harmony",
+  "brand": "Vilhelm Parfumerie",
+  "description": "Inspiriert von: Dear Polly · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-VOY-001",
+  "name": "Voyage — Voyage Homme",
+  "brand": "Voyage",
+  "description": "Inspiriert von: Pour Homme · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-VOY-002",
+  "name": "Voyage — PQ Voyage Royale",
+  "brand": "Voyage",
+  "description": "Inspiriert von: Pour Homme (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-WID-001",
+  "name": "Widian — PQ London Spirit PQ",
+  "brand": "Widian",
+  "description": "Inspiriert von: London (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-001",
+  "name": "Xerjoff — Ocean Knots",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: 40 Knots · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-002",
+  "name": "Xerjoff — Golden Accent",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Accento · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-003",
+  "name": "Xerjoff — Golden Rush",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Accento Overdose · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-004",
+  "name": "Xerjoff — Dark Afgano",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Afgano Puro · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-005",
+  "name": "Xerjoff — Imperial Oud",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Alexandria II · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-006",
+  "name": "Xerjoff — PQ Imperial Oud PQ",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Alexandria II (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-007",
+  "name": "Xerjoff — Royal Oud",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Alexandria III · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-008",
+  "name": "Xerjoff — Luna Bloom",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Apollonia · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-009",
+  "name": "Xerjoff — Heritage Oud",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Casamorati 1888 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-010",
+  "name": "Xerjoff — White Lady",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Casamorati Dama Bianca · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-011",
+  "name": "Xerjoff — Royal Gala",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Casamorati Gran Ballo · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-012",
+  "name": "Xerjoff — Sweet Italica",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Casamorati Italica · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-013",
+  "name": "Xerjoff — Casa d'Aura",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Casamorati Quattro Pizzi · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-014",
+  "name": "Xerjoff — PQ Coroa Lux",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Coro · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-015",
+  "name": "Xerjoff — Tropical Soul",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Cruz del Sur · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-016",
+  "name": "Xerjoff — Golden Essence",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Erba Gold · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-017",
+  "name": "Xerjoff — Pure Mirage",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Erba pura · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-018",
+  "name": "Xerjoff — PQ Pure Mirage PQ",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Erba pura (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-019",
+  "name": "Xerjoff — PQ Spiced Gold",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Golden Dallah · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-020",
+  "name": "Xerjoff — Mystic Words",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Join The Club More Than Words · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-021",
+  "name": "Xerjoff — PQ Capital Rouge",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: La Capitale · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-022",
+  "name": "Xerjoff — Floral L Tosca",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: La Tosca · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-023",
+  "name": "Xerjoff — Vanilla Gold",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Lira · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-024",
+  "name": "Xerjoff — PQ Musea",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Muse · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-025",
+  "name": "Xerjoff — Honey Tobacco",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Naxos · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-026",
+  "name": "Xerjoff — PQ Honey Tobacco PQ",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Naxos (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-027",
+  "name": "Xerjoff — Velvet Opera",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Opera · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-028",
+  "name": "Xerjoff — Velvet Overture",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Ouverture · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-029",
+  "name": "Xerjoff — Violet Harmony",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Purple Accento · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-030",
+  "name": "Xerjoff — Citrus Renaissance",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Renaissance XJ 1861 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-031",
+  "name": "Xerjoff — PQ Noble Woods",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Richwood · 50ml Eau de Parfum",
+  "unit_price": 25.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-032",
+  "name": "Xerjoff — Celestial Rose",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Shooting Stars Oesel · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-033",
+  "name": "Xerjoff — Oriental Voice",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Soprano · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-034",
+  "name": "Xerjoff — Rock Spirit",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Tony Iommi Monkey Special · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-035",
+  "name": "Xerjoff — PQ Torino Breeze",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Torino 21 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-036",
+  "name": "Xerjoff — PQ Torino Spirit PQ",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Torino 22 (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-037",
+  "name": "Xerjoff — Torino Shine",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Torino 23 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-038",
+  "name": "Xerjoff — PQ Torino Flash",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Torino 24 · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-039",
+  "name": "Xerjoff — Citrus Vibrance",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Vibrato · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-040",
+  "name": "Xerjoff — PQ Crimson Oud",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: Wardasina · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-XER-041",
+  "name": "Xerjoff — Crystal White",
+  "brand": "Xerjoff",
+  "description": "Inspiriert von: White on White · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-YVERO-001",
+  "name": "Yves Rocher — Elegant Proof",
+  "brand": "Yves Rocher",
+  "description": "Inspiriert von: Evidence · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-YVERO-002",
+  "name": "Yves Rocher — Magnolia Shine",
+  "brand": "Yves Rocher",
+  "description": "Inspiriert von: Magnolia · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-YVESA-001",
+  "name": "Yves Saint Laurent — Dark Opium",
+  "brand": "Yves Saint Laurent",
+  "description": "Inspiriert von: Black Opium · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-YVESA-002",
+  "name": "Yves Saint Laurent — PQ Dark Opium PQ",
+  "brand": "Yves Saint Laurent",
+  "description": "Inspiriert von: Black Opium (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-YVESA-003",
+  "name": "Yves Saint Laurent — Golden Cinema",
+  "brand": "Yves Saint Laurent",
+  "description": "Inspiriert von: Cinema · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-YVESA-004",
+  "name": "Yves Saint Laurent — Kouros Legend",
+  "brand": "Yves Saint Laurent",
+  "description": "Inspiriert von: Kouros · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-YVESA-005",
+  "name": "Yves Saint Laurent — Urban Homme",
+  "brand": "Yves Saint Laurent",
+  "description": "Inspiriert von: L'Homme · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-YVESA-006",
+  "name": "Yves Saint Laurent — Midnight Homme",
+  "brand": "Yves Saint Laurent",
+  "description": "Inspiriert von: La Nuit De L'Homme · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-YVESA-007",
+  "name": "Yves Saint Laurent — Libre Bloom",
+  "brand": "Yves Saint Laurent",
+  "description": "Inspiriert von: Libre · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-YVESA-008",
+  "name": "Yves Saint Laurent — PQ Libre Intense PQ",
+  "brand": "Yves Saint Laurent",
+  "description": "Inspiriert von: Libre Intense (PQ) · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-YVESA-009",
+  "name": "Yves Saint Laurent — Velvet Manifesto",
+  "brand": "Yves Saint Laurent",
+  "description": "Inspiriert von: Manifesto · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-YVESA-010",
+  "name": "Yves Saint Laurent — Myself Essence",
+  "brand": "Yves Saint Laurent",
+  "description": "Inspiriert von: MYSLF · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-YVESA-011",
+  "name": "Yves Saint Laurent — Blue Spirit",
+  "brand": "Yves Saint Laurent",
+  "description": "Inspiriert von: Y · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ZADVO-001",
+  "name": "Zadig & Voltaire — ZV Heritage",
+  "brand": "Zadig & Voltaire",
+  "description": "Inspiriert von: Classic · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ZADVO-002",
+  "name": "Zadig & Voltaire — Her Lumière",
+  "brand": "Zadig & Voltaire",
+  "description": "Inspiriert von: This is Her! · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ },
+ {
+  "code": "EF-ZADVO-003",
+  "name": "Zadig & Voltaire — Him Noir",
+  "brand": "Zadig & Voltaire",
+  "description": "Inspiriert von: This is Him! · 50ml Eau de Parfum",
+  "unit_price": 20.0,
+  "unit": "50ml Flasche"
+ }
+]
