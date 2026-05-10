@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Edelfragrance · Rechnungen</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<!-- ===== SETUP / LOGIN ===== -->
+<div id="auth-screen" class="auth-screen hidden">
+  <div class="auth-card">
+    <div class="auth-brand">
+      <div class="auth-mark">EF</div>
+      <h1>Edelfragrance</h1>
+      <p class="auth-sub">Rechnungs-System</p>
+    </div>
+
+    <!-- SETUP -->
+    <div id="setup-form" class="auth-form">
+      <h2>Erste Einrichtung</h2>
+      <p class="muted">Verbinde dich mit deiner Supabase-Datenbank.</p>
+      <label>Project URL
+        <input type="url" id="setup-url" placeholder="https://xxxxxxxx.supabase.co" required>
+      </label>
+      <label>Anon Key
+        <input type="text" id="setup-key" placeholder="eyJhbGc..." required>
+      </label>
+      <button class="btn btn-primary" id="setup-save">Verbinden</button>
+      <p class="muted small">Die Werte werden lokal in deinem Browser gespeichert.</p>
+    </div>
+
+    <!-- LOGIN -->
+    <div id="login-form" class="auth-form hidden">
+      <h2>Anmelden</h2>
+      <label>E-Mail
+        <input type="email" id="login-email" autocomplete="email" required>
+      </label>
+      <label>Passwort
+        <input type="password" id="login-password" autocomplete="current-password" required>
+      </label>
+      <button class="btn btn-primary" id="login-submit">Einloggen</button>
+      <button class="btn btn-ghost" id="show-signup">Neuen Account erstellen</button>
+      <button class="btn-link" id="reset-setup">Andere Datenbank verbinden</button>
+    </div>
+
+    <!-- SIGNUP -->
+    <div id="signup-form" class="auth-form hidden">
+      <h2>Account erstellen</h2>
+      <label>E-Mail
+        <input type="email" id="signup-email" autocomplete="email" required>
+      </label>
+      <label>Passwort (min. 6 Zeichen)
+        <input type="password" id="signup-password" autocomplete="new-password" required>
+      </label>
+      <button class="btn btn-primary" id="signup-submit">Registrieren</button>
+      <button class="btn btn-ghost" id="show-login">Zurück zum Login</button>
+    </div>
+
+    <div id="auth-error" class="auth-error hidden"></div>
+  </div>
+</div>
+
+<!-- ===== APP SHELL ===== -->
+<div id="app-shell" class="app-shell hidden">
+  <aside class="sidebar">
+    <div class="brand">
+      <div class="brand-mark">EF</div>
+      <div class="brand-name">
+        <span class="brand-display">Edelfragrance</span>
+        <span class="brand-sub">Rechnungen</span>
+      </div>
+    </div>
+    <nav class="nav">
+      <a href="#dashboard" data-route="dashboard">
+        <span class="nav-icon">◆</span> Dashboard
+      </a>
+      <a href="#invoices" data-route="invoices">
+        <span class="nav-icon">▤</span> Rechnungen
+      </a>
+      <a href="#customers" data-route="customers">
+        <span class="nav-icon">◐</span> Kunden
+      </a>
+      <a href="#products" data-route="products">
+        <span class="nav-icon">◇</span> Produkte
+      </a>
+      <a href="#settings" data-route="settings">
+        <span class="nav-icon">⚙</span> Einstellungen
+      </a>
+    </nav>
+    <div class="sidebar-footer">
+      <button class="btn-link" id="sign-out">Abmelden</button>
+    </div>
+  </aside>
+
+  <main class="main" id="main-view">
+    <!-- Views werden hier dynamisch eingefügt -->
+  </main>
+</div>
+
+<!-- ===== TOAST ===== -->
+<div id="toast-container" class="toast-container"></div>
+
+<!-- ===== TEMPLATES ===== -->
+
+<template id="tpl-dashboard">
+  <div class="view view-dashboard">
+    <header class="view-head">
+      <div>
+        <h1 class="view-title">Dashboard</h1>
+        <p class="view-sub" id="dashboard-greeting">Guten Tag.</p>
+      </div>
+      <button class="btn btn-primary" id="quick-new-invoice">+ Neue Rechnung</button>
+    </header>
+
+    <div class="stats-grid">
+      <div class="stat-card">
+        <div class="stat-label">Rechnungen total</div>
+        <div class="stat-value" id="stat-total">—</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Umsatz dieses Jahr</div>
+        <div class="stat-value" id="stat-revenue">— €</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Offene Beträge</div>
+        <div class="stat-value" id="stat-open">— €</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Kunden</div>
+        <div class="stat-value" id="stat-customers">—</div>
+      </div>
+    </div>
+
+    <section class="section">
+      <h2 class="section-title">Letzte Rechnungen</h2>
+      <div id="recent-invoices" class="invoice-list"></div>
+    </section>
+  </div>
+</template>
+
+<template id="tpl-invoices">
+  <div class="view">
+    <header class="view-head">
+      <div>
+        <h1 class="view-title">Rechnungen</h1>
+        <p class="view-sub" id="invoices-count"></p>
+      </div>
+      <button class="btn btn-primary" id="new-invoice-btn">+ Neue Rechnung</button>
+    </header>
+
+    <div class="filter-bar">
+      <input type="search" id="invoice-search" placeholder="Suchen (Rechnungsnummer, Kunde …)">
+      <select id="invoice-status-filter">
+        <option value="">Alle Status</option>
+        <option value="draft">Entwurf</option>
+        <option value="sent">Versendet</option>
+        <option value="paid">Bezahlt</option>
+        <option value="cancelled">Storniert</option>
+      </select>
+    </div>
+
+    <div id="invoice-list" class="invoice-list"></div>
+  </div>
+</template>
+
+<template id="tpl-invoice-edit">
+  <div class="view">
+    <header class="view-head">
+      <div>
+        <h1 class="view-title" id="invoice-edit-title">Neue Rechnung</h1>
+        <p class="view-sub" id="invoice-edit-number"></p>
+      </div>
+      <div class="head-actions">
+        <button class="btn btn-ghost" id="cancel-invoice">Abbrechen</button>
+        <button class="btn btn-primary" id="save-invoice">Speichern</button>
+      </div>
+    </header>
+
+    <div class="invoice-form">
+      <div class="form-grid">
+        <div class="form-section">
+          <label class="form-label">Kunde</label>
+          <div class="customer-selector">
+            <select id="invoice-customer"></select>
+            <button class="btn btn-small" id="invoice-new-customer">+ Neu</button>
+          </div>
+        </div>
+
+        <div class="form-section">
+          <label class="form-label">Rechnungsdatum</label>
+          <input type="date" id="invoice-date">
+        </div>
+
+        <div class="form-section">
+          <label class="form-label">Fälligkeit</label>
+          <input type="date" id="invoice-due">
+        </div>
+
+        <div class="form-section">
+          <label class="form-label">Status</label>
+          <select id="invoice-status">
+            <option value="draft">Entwurf</option>
+            <option value="sent">Versendet</option>
+            <option value="paid">Bezahlt</option>
+            <option value="cancelled">Storniert</option>
+          </select>
+        </div>
+      </div>
+
+      <h3 class="form-section-title">Positionen</h3>
+      <table class="items-table">
+        <thead>
+          <tr>
+            <th style="width:50%">Beschreibung</th>
+            <th style="width:12%">Menge</th>
+            <th style="width:18%">Einzelpreis</th>
+            <th style="width:18%">Summe</th>
+            <th style="width:2%"></th>
+          </tr>
+        </thead>
+        <tbody id="invoice-items-body"></tbody>
+        <tfoot>
+          <tr>
+            <td colspan="5">
+              <button class="btn-link" id="add-item">+ Position hinzufügen</button>
+            </td>
+          </tr>
+          <tr class="total-row">
+            <td colspan="3"></td>
+            <td><strong>Gesamtbetrag:</strong></td>
+            <td id="invoice-total"><strong>0,00 €</strong></td>
+          </tr>
+        </tfoot>
+      </table>
+
+      <div class="form-section">
+        <label class="form-label">Notizen / interne Hinweise</label>
+        <textarea id="invoice-notes" rows="3"></textarea>
+      </div>
+    </div>
+  </div>
+</template>
+
+<template id="tpl-invoice-view">
+  <div class="view view-invoice-view">
+    <header class="view-head no-print">
+      <div>
+        <h1 class="view-title">Rechnung <span id="iv-num"></span></h1>
+        <p class="view-sub" id="iv-status"></p>
+      </div>
+      <div class="head-actions">
+        <button class="btn btn-ghost" id="iv-back">← Zurück</button>
+        <button class="btn btn-ghost" id="iv-edit">Bearbeiten</button>
+        <button class="btn btn-ghost" id="iv-delete">Löschen</button>
+        <button class="btn btn-primary" id="iv-print">PDF / Drucken</button>
+      </div>
+    </header>
+    <div id="invoice-printable" class="invoice-printable"></div>
+  </div>
+</template>
+
+<template id="tpl-customers">
+  <div class="view">
+    <header class="view-head">
+      <div>
+        <h1 class="view-title">Kunden</h1>
+        <p class="view-sub" id="customers-count"></p>
+      </div>
+      <button class="btn btn-primary" id="new-customer-btn">+ Neuer Kunde</button>
+    </header>
+    <input type="search" id="customer-search" placeholder="Suchen …" class="search-bar">
+    <div id="customer-list" class="card-list"></div>
+  </div>
+</template>
+
+<template id="tpl-products">
+  <div class="view">
+    <header class="view-head">
+      <div>
+        <h1 class="view-title">Produkte</h1>
+        <p class="view-sub" id="products-count"></p>
+      </div>
+      <button class="btn btn-primary" id="new-product-btn">+ Neues Produkt</button>
+    </header>
+    <input type="search" id="product-search" placeholder="Suchen …" class="search-bar">
+    <div id="product-list" class="card-list"></div>
+  </div>
+</template>
+
+<template id="tpl-settings">
+  <div class="view">
+    <header class="view-head">
+      <div>
+        <h1 class="view-title">Einstellungen</h1>
+        <p class="view-sub">Firmenstammdaten und Rechnungs-Konfiguration</p>
+      </div>
+      <button class="btn btn-primary" id="save-settings">Speichern</button>
+    </header>
+
+    <section class="section">
+      <h2 class="section-title">Firma</h2>
+      <div class="form-grid">
+        <label>Firmenname<input type="text" id="s-company"></label>
+        <label>Inhaber<input type="text" id="s-owner"></label>
+        <label>Straße & Nr.<input type="text" id="s-street"></label>
+        <label>PLZ<input type="text" id="s-zip"></label>
+        <label>Ort<input type="text" id="s-city"></label>
+        <label>Land<input type="text" id="s-country"></label>
+        <label>E-Mail<input type="email" id="s-email"></label>
+        <label>Telefon<input type="tel" id="s-phone"></label>
+        <label>Webseite<input type="url" id="s-website"></label>
+        <label>Steuernummer<input type="text" id="s-tax"></label>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2 class="section-title">Bank</h2>
+      <div class="form-grid">
+        <label>Bank-Name<input type="text" id="s-bank"></label>
+        <label>IBAN<input type="text" id="s-iban"></label>
+        <label>BIC<input type="text" id="s-bic"></label>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2 class="section-title">Rechnungs-Konfiguration</h2>
+      <div class="form-grid">
+        <label>Rechnungs-Präfix<input type="text" id="s-prefix" placeholder="EF"></label>
+        <label>Nächste Nummer<input type="number" id="s-next-num" min="1"></label>
+        <label>Standard-Zahlungsfrist (Tage)<input type="number" id="s-pay-days" min="0"></label>
+        <label>Fußzeile<input type="text" id="s-footer"></label>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2 class="section-title">Datenbank</h2>
+      <div class="action-row">
+        <button class="btn btn-ghost" id="export-excel">📊 Komplette DB als Excel exportieren</button>
+      </div>
+    </section>
+  </div>
+</template>
+
+<!-- ===== MODAL ===== -->
+<div id="modal-backdrop" class="modal-backdrop hidden">
+  <div class="modal" id="modal">
+    <div class="modal-head">
+      <h3 id="modal-title">Titel</h3>
+      <button class="btn-icon" id="modal-close">✕</button>
+    </div>
+    <div class="modal-body" id="modal-body"></div>
+    <div class="modal-foot" id="modal-foot"></div>
+  </div>
+</div>
+
+<!-- ===== EXTERNAL LIBRARIES ===== -->
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+
+<!-- ===== APP SCRIPTS ===== -->
+<script src="db.js"></script>
+<script src="invoice.js"></script>
+<script src="app.js"></script>
+
+</body>
+</html>
