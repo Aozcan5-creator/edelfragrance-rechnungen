@@ -628,7 +628,12 @@
       list.innerHTML = '';
       $('#products-count').textContent = `${filtered.length} Produkt${filtered.length === 1 ? '' : 'e'}`;
       if (!filtered.length) {
-        list.innerHTML = '<div class="empty-state">Noch keine Produkte. Lege welche an, um sie auf Rechnungen schneller einzufügen.</div>';
+        list.innerHTML = `
+          <div class="empty-state">
+            <p>Noch keine Produkte.</p>
+            <p style="margin-top:8px"><button class="btn btn-primary" onclick="document.getElementById('import-products-btn').click()">📥 842 Edelfragrance-Düfte importieren</button></p>
+            <p class="muted small" style="margin-top:12px">Oder oben "+ Neues Produkt" für manuelle Anlage.</p>
+          </div>`;
         return;
       }
       filtered.forEach(p => {
@@ -668,7 +673,97 @@
       repaint();
     };
     $('#new-product-btn').onclick = () => editProduct(null);
+    $('#import-products-btn').onclick = () => importProductsFromJSON();
     repaint();
+  }
+
+  // ============= IMPORT PRODUCTS FROM JSON =============
+  async function importProductsFromJSON() {
+    let products;
+    try {
+      const r = await fetch('./products.json', { cache: 'no-store' });
+      if (!r.ok) throw new Error('products.json nicht gefunden (HTTP ' + r.status + ')');
+      products = await r.json();
+    } catch (e) {
+      return toast('Fehler beim Laden: ' + e.message, 'error');
+    }
+    if (!Array.isArray(products) || !products.length) {
+      return toast('products.json ist leer oder ungültig.', 'error');
+    }
+
+    // Preisverteilung berechnen
+    const dist = {};
+    products.forEach(p => { dist[p.unit_price] = (dist[p.unit_price] || 0) + 1; });
+    const distHtml = Object.keys(dist).sort((a, b) => Number(a) - Number(b))
+      .map(p => `<tr><td><strong>${Number(p).toFixed(0)} €</strong></td><td style="text-align:right">${dist[p]} Düfte</td></tr>`)
+      .join('');
+
+    const existing = await DB.listProducts();
+    const replaceWarning = existing.length
+      ? `<div style="background:var(--amber-bg);border-left:3px solid var(--amber);padding:12px;margin-top:12px;font-size:0.9rem">
+           ⚠ Du hast bereits <strong>${existing.length} Produkt${existing.length === 1 ? '' : 'e'}</strong> in der Datenbank.
+           Wähle unten, ob du ersetzen oder ergänzen möchtest.
+         </div>`
+      : '';
+
+    const r = await modal({
+      title: `${products.length} Düfte importieren`,
+      body: `
+        <p>Aus der Edelfragrance-Preisliste sollen <strong>${products.length} Produkte</strong> in deine Datenbank importiert werden.</p>
+        <p style="margin-top:12px"><strong>Verkaufspreis-Verteilung</strong> (variabel, mind. 5€ Gewinn pro Flasche):</p>
+        <table style="width:100%;margin-top:8px;border-collapse:collapse">
+          <thead><tr style="border-bottom:1px solid var(--border)"><th style="text-align:left;padding:6px 0">VK-Preis</th><th style="text-align:right;padding:6px 0">Anzahl</th></tr></thead>
+          <tbody>${distHtml}</tbody>
+        </table>
+        ${replaceWarning}
+        ${existing.length ? `
+        <label style="margin-top:16px;display:flex;align-items:center;gap:8px;text-transform:none;letter-spacing:0;font-weight:400;color:var(--text)">
+          <input type="checkbox" id="m-replace" style="width:auto"> Bestehende Produkte vorher löschen (sauberer Neuimport)
+        </label>` : ''}
+      `,
+      foot: [
+        { text: 'Abbrechen', cls: 'btn btn-ghost', value: null },
+        { text: `${products.length} importieren`, cls: 'btn btn-primary', value: 'go' }
+      ]
+    });
+    if (r !== 'go') return;
+
+    const replace = $('#m-replace')?.checked;
+
+    // Progress modal
+    await modal({
+      title: 'Import läuft …',
+      body: `
+        <p id="import-status">Vorbereiten …</p>
+        <div style="background:var(--cream-deep);height:8px;margin-top:12px;border-radius:1px;overflow:hidden">
+          <div id="import-bar" style="background:var(--mocha);height:100%;width:0;transition:width 0.2s"></div>
+        </div>
+        <p class="muted small" style="margin-top:8px">Bitte nicht schließen — der Import dauert ca. 10-20 Sekunden.</p>
+      `,
+      foot: [],
+      onOpen: async ({ close }) => {
+        try {
+          if (replace) {
+            $('#import-status').textContent = 'Bestehende Produkte werden gelöscht …';
+            await DB.deleteAllProducts();
+          }
+          await DB.bulkCreateProducts(products, (done, total) => {
+            const pct = Math.round((done / total) * 100);
+            $('#import-status').textContent = `Importiert: ${done} von ${total} (${pct}%)`;
+            $('#import-bar').style.width = pct + '%';
+          });
+          $('#import-status').textContent = `✓ Fertig! ${products.length} Produkte importiert.`;
+          $('#import-bar').style.width = '100%';
+          $('#import-bar').style.background = 'var(--green)';
+          setTimeout(() => { close('done'); renderProducts(); toast(`${products.length} Düfte importiert.`, 'success'); }, 1200);
+        } catch (e) {
+          $('#import-status').innerHTML = `<span style="color:var(--red)">Fehler: ${escapeHtml(e.message)}</span>`;
+          $('#import-bar').style.background = 'var(--red)';
+          setTimeout(() => close(null), 2500);
+          toast('Import fehlgeschlagen.', 'error');
+        }
+      }
+    });
   }
 
   async function editProduct(p) {
