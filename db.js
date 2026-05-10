@@ -154,6 +154,24 @@
     const { error } = await client.from('products').delete().eq('id', id);
     if (error) throw error;
   }
+  async function deleteAllProducts() {
+    const uid = userId(); if (!uid) throw new Error('Nicht eingeloggt');
+    const { error } = await client.from('products').delete().eq('user_id', uid);
+    if (error) throw error;
+  }
+  async function bulkCreateProducts(items, onProgress) {
+    const uid = userId(); if (!uid) throw new Error('Nicht eingeloggt');
+    const BATCH = 200;
+    let inserted = 0;
+    for (let i = 0; i < items.length; i += BATCH) {
+      const slice = items.slice(i, i + BATCH).map(p => ({ ...p, user_id: uid }));
+      const { error } = await client.from('products').insert(slice);
+      if (error) throw error;
+      inserted += slice.length;
+      if (onProgress) onProgress(inserted, items.length);
+    }
+    return inserted;
+  }
 
   // ------- INVOICES -------
   async function listInvoices(filter = {}) {
@@ -320,6 +338,7 @@
     getSettings, updateSettings,
     listCustomers, getCustomer, createCustomer, updateCustomer, deleteCustomer,
     listProducts, createProduct, updateProduct, deleteProduct,
+    deleteAllProducts, bulkCreateProducts,
     listInvoices, getInvoice, nextInvoiceNumber,
     createInvoice, updateInvoice, deleteInvoice,
     getStats, exportAll
