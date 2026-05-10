@@ -166,6 +166,7 @@
 
   function parseHash() {
     const h = location.hash.replace(/^#/, '') || 'dashboard';
+    if (h === 'invoices/new')           return { name: 'invoices/new' };
     if (h.startsWith('invoices/edit/')) return { name: 'invoice-edit', id: h.split('/')[2] };
     if (h.startsWith('invoices/'))      return { name: 'invoice-view', id: h.split('/')[1] };
     return { name: h };
